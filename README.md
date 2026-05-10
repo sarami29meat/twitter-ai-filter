@@ -91,4 +91,4 @@ MIT
 
 バグ報告・要望は [Issues](https://github.com/sarami29meat/twitter-ai-filter/issues) へ。
 
-役に立ったら ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/sarami29meat) で支援してもらえると励みになります。
+役に立ったら ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/sarami2929) で支援してもらえると励みになります。
