@@ -115,13 +115,11 @@
 }
 
 .ai-filter-content {
-  overflow: hidden;
-  max-height: 0;
-  transition: max-height 0.25s ease;
+  display: none;
 }
 
 .ai-filter-content.ai-filter-expanded {
-  max-height: 2000px;
+  display: block;
 }
 
 .ai-filter-wrapper {

@@ -860,6 +860,8 @@ console.log('[AIFilter] content.js loaded v3-core', location.href);
         detectedAIAccounts.delete(author);
         document.getElementById(`ai-acct-${author}`)?.remove();
         refreshCountDisplay();
+        // 検出数をストレージに更新
+        chrome.storage.local.set({ sessionDetectedCount: detectedAIAccounts.size });
         return;
       }
       await setStorage({ flags, whitelist });
@@ -870,6 +872,8 @@ console.log('[AIFilter] content.js loaded v3-core', location.href);
 
     sessionHiddenCount++;
     chrome.storage.local.set({ sessionHiddenCount });
+    // AI疑い検出数をストレージに保存（ポップアップのリアルタイム表示用）
+    chrome.storage.local.set({ sessionDetectedCount: detectedAIAccounts.size });
   }
 
   function getSignalTags(r) {

@@ -1673,3 +1673,1169 @@
 [ext] [AIFilter] userdata受信: @lipod_taisho posts=328376 joined=2015-04-10T09:33:51.000Z userId=3147766916 articles=0
 [ext] [AIFilter] userdata受信: @lipod_taisho posts=328376 joined=2015-04-10T09:33:51.000Z userId=3147766916 articles=0
 [ext] [AIFilter] userdata受信: @lipod_taisho posts=328376 joined=2015-04-10T09:33:51.000Z userId=3147766916 articles=0
+[ext] [AIFilter] userdata受信: @lipod_taisho posts=328376 joined=2015-04-10T09:33:51.000Z userId=3147766916 articles=0
+[ext] [AIFilter] userdata受信: @odgr posts=86748 joined=2009-10-24T17:04:22.000Z userId=84892641 articles=0
+[ext] [AIFilter] userdata受信: @mekparkofficial posts=5 joined=2026-03-09T03:24:55.000Z userId=2030846900082290688 articles=0
+[ext] [AIFilter] userdata受信: @hakase_fuyuki posts=35092 joined=2019-06-28T09:37:42.000Z userId=1144540365854167041 articles=0
+[ext] [AIFilter] userdata受信: @sistercleaire posts=43738 joined=2018-05-26T10:36:00.000Z userId=1000324666697728000 articles=0
+[ext] [AIFilter] プロフィールページ @home: 14076件
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @ashiya1969 posts=10156 joined=2019-10-09T05:46:54.000Z userId=1181808170127122432 articles=0
+[ext] [AIFilter] userdata受信: @ashiya1969 posts=10156 joined=2019-10-09T05:46:54.000Z userId=1181808170127122432 articles=0
+[ext] [AIFilter] userdata受信: @spatula_trade posts=4098 joined=2022-03-09T04:11:17.000Z userId=1501410234962571265 articles=0
+[ext] [AIFilter] userdata受信: @wamawmwm posts=3019 joined=2016-12-01T07:44:33.000Z userId=804229683399143424 articles=0
+[ext] [AIFilter] userdata受信: @normanbot_ posts=25670 joined=2016-07-04T21:07:48.000Z userId=750073648191451136 articles=0
+[ext] [AIFilter] userdata受信: @tiffanyfong posts=34825 joined=2011-06-27T19:14:20.000Z userId=325111978 articles=0
+[ext] [AIFilter] userdata受信: @that_1 posts=51398 joined=2022-10-30T06:46:16.000Z userId=1586610197509832704 articles=0
+[ext] [AIFilter] userdata受信: @that_1 posts=51398 joined=2022-10-30T06:46:16.000Z userId=1586610197509832704 articles=0
+[ext] [AIFilter] userdata受信: @bisco_cp posts=1806 joined=2017-11-08T05:17:13.000Z userId=928129257749880833 articles=0
+[ext] [AIFilter] userdata受信: @bisco_cp posts=1806 joined=2017-11-08T05:17:13.000Z userId=928129257749880833 articles=0
+[ext] [AIFilter] userdata受信: @kamipapa2 posts=25177 joined=2016-01-26T15:22:01.000Z userId=4817240983 articles=0
+[ext] [AIFilter] userdata受信: @kaxishk posts=21204 joined=2018-05-28T04:11:27.000Z userId=1000952667860959232 articles=0
+[ext] [AIFilter] userdata受信: @fps_syu posts=34547 joined=2021-05-04T05:13:49.000Z userId=1389448054609043465 articles=0
+[ext] [AIFilter] userdata受信: @fuka_hire posts=7789 joined=2009-07-27T00:36:22.000Z userId=60438725 articles=0
+[ext] [AIFilter] userdata受信: @inugamikorone posts=26470 joined=2019-03-24T09:28:25.000Z userId=1109748792721432577 articles=0
+[ext] [AIFilter] userdata受信: @ghana_recipe posts=2128824 joined=2017-01-06T02:42:03.000Z userId=817199522212261888 articles=0
+[ext] [AIFilter] userdata受信: @ghana_recipe posts=2128824 joined=2017-01-06T02:42:03.000Z userId=817199522212261888 articles=0
+[ext] [AIFilter] userdata受信: @thedoctorlogos posts=4305 joined=2026-01-09T09:59:24.000Z userId=2009565615829467136 articles=0
+[ext] [AIFilter] userdata受信: @m_aqap posts=13433 joined=2021-07-31T07:58:48.000Z userId=1421379775797493760 articles=0
+[ext] [AIFilter] userdata受信: @animestendencia posts=3103 joined=2023-01-16T20:35:57.000Z userId=1615085430759718915 articles=0
+[ext] [AIFilter] userdata受信: @pourlesjolies posts=1453 joined=2019-04-26T03:07:11.000Z userId=1121611652036583426 articles=0
+[ext] [AIFilter] userdata受信: @artistslinks posts=2361 joined=2020-09-04T07:03:29.000Z userId=1301777784780460032 articles=0
+[ext] [AIFilter] userdata受信: @pourlesjolies posts=1453 joined=2019-04-26T03:07:11.000Z userId=1121611652036583426 articles=0
+[ext] [AIFilter] userdata受信: @cutecatpost posts=4396 joined=2022-08-10T14:32:25.000Z userId=1557374186091294720 articles=0
+[ext] [AIFilter] userdata受信: @luckysan0903 posts=6533 joined=2024-03-15T11:23:00.000Z userId=1768598729903460352 articles=0
+[ext] [AIFilter] userdata受信: @cutecatpost posts=4396 joined=2022-08-10T14:32:25.000Z userId=1557374186091294720 articles=0
+[ext] [AIFilter] userdata受信: @doxycdreamer posts=52729 joined=2015-01-02T22:52:49.000Z userId=2956529898 articles=0
+[ext] [AIFilter] userdata受信: @artistslinks posts=2361 joined=2020-09-04T07:03:29.000Z userId=1301777784780460032 articles=0
+[ext] [AIFilter] userdata受信: @cutecatpost posts=4396 joined=2022-08-10T14:32:25.000Z userId=1557374186091294720 articles=0
+[ext] [AIFilter] userdata受信: @mothematiks posts=209163 joined=2021-07-26T05:17:09.000Z userId=1419527133538537474 articles=0
+[ext] [AIFilter] userdata受信: @h_nakai_photo posts=38677 joined=2018-10-15T16:16:53.000Z userId=1051869531805634560 articles=0
+[ext] [AIFilter] userdata受信: @sakanaxar posts=3701 joined=2016-06-28T12:48:04.000Z userId=747773559120924672 articles=0
+[ext] [AIFilter] userdata受信: @sakanaxar posts=3701 joined=2016-06-28T12:48:04.000Z userId=747773559120924672 articles=0
+[ext] [AIFilter] userdata受信: @abema_fight posts=15566 joined=2017-03-02T03:47:35.000Z userId=837147344550293504 articles=0
+[ext] [AIFilter] userdata受信: @abema_fight posts=15566 joined=2017-03-02T03:47:35.000Z userId=837147344550293504 articles=0
+[ext] [AIFilter] userdata受信: @ponpokoka posts=34611 joined=2018-02-01T14:32:41.000Z userId=959072014899097601 articles=0
+[ext] [AIFilter] userdata受信: @ponpokoka posts=34611 joined=2018-02-01T14:32:41.000Z userId=959072014899097601 articles=0
+[ext] [AIFilter] userdata受信: @uenokuromon posts=17861 joined=2022-11-29T02:13:59.000Z userId=1597413484459085824 articles=0
+[ext] [AIFilter] userdata受信: @taisadon posts=47339 joined=2020-11-16T19:26:05.000Z userId=1328418803420590080 articles=0
+[ext] [AIFilter] userdata受信: @visualscat posts=11570 joined=2022-07-11T23:34:53.000Z userId=1546639149872168960 articles=0
+[ext] [AIFilter] userdata受信: @furyu_hm posts=5332 joined=2017-07-12T09:08:22.000Z userId=885063271669272577 articles=0
+[ext] [AIFilter] userdata受信: @furyu_hm posts=5332 joined=2017-07-12T09:08:22.000Z userId=885063271669272577 articles=0
+[ext] [AIFilter] userdata受信: @tiamohaggegomi posts=108001 joined=2018-04-07T13:34:32.000Z userId=982612589778616320 articles=0
+[ext] [AIFilter] userdata受信: @_nekonose_ posts=27496 joined=2016-05-23T11:27:15.000Z userId=734707258748108801 articles=0
+[ext] [AIFilter] userdata受信: @playstation_jp posts=264903 joined=2009-10-02T11:38:06.000Z userId=79159050 articles=0
+[ext] [AIFilter] userdata受信: @maximum_oden posts=5419 joined=2025-08-09T05:42:20.000Z userId=1954055442579243008 articles=0
+[ext] [AIFilter] userdata受信: @usnkusut posts=42288 joined=2025-09-19T00:22:04.000Z userId=1968832864516194304 articles=0
+[ext] [AIFilter] userdata受信: @unext_fight posts=17092 joined=2022-04-11T08:49:09.000Z userId=1513438637098082304 articles=0
+[ext] [AIFilter] userdata受信: @unext_fight posts=17092 joined=2022-04-11T08:49:09.000Z userId=1513438637098082304 articles=0
+[ext] [AIFilter] userdata受信: @xh_lee23 posts=6726 joined=2021-07-14T02:12:55.000Z userId=1415132116761804801 articles=0
+[ext] [AIFilter] userdata受信: @uaivito posts=15869 joined=2024-01-03T16:23:20.000Z userId=1742582279484928002 articles=0
+[ext] [AIFilter] UserTweets URL受信: https://x.com/i/api/graphql/lrMzG9qPQHpqJdP3AbM-bQ/UserTweets
+[ext] [AIFilter] userdata受信: @haru_pins posts=8369 joined=2025-03-26T11:15:46.000Z userId=null articles=0
+[ext] [AIFilter] userdata受信: @6hwypffvthezrcx posts=96 joined=2020-09-08T16:16:36.000Z userId=null articles=0
+[ext] [AIFilter] userdata受信: @nijilis_musuka posts=2668 joined=2020-04-05T12:13:38.000Z userId=null articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @lain_paterson posts=16841 joined=2021-07-15T11:31:05.000Z userId=1415634931418492935 articles=0
+[ext] [AIFilter] userdata受信: @rena_yorumi posts=23223 joined=2019-06-28T09:43:11.000Z userId=1144541744639250432 articles=0
+[ext] [AIFilter] userdata受信: @leos_vincent posts=7305 joined=2021-06-28T04:26:00.000Z userId=1409367400709984260 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @leos_vincent posts=7305 joined=2021-06-28T04:26:00.000Z userId=1409367400709984260 articles=0
+[ext] [AIFilter] userdata受信: @yotsuha_umise posts=8329 joined=2022-03-02T07:23:43.000Z userId=1498921872326807553 articles=0
+[ext] [AIFilter] userdata受信: @seffyna2434 posts=27121 joined=2021-04-20T02:23:24.000Z userId=1384331673727209477 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @kzhn110 posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @kzhn110 posts=8951 joined=2016-05-20T01:03:00.000Z userId=733462999189479427 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @mugi_dk posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @mugi_dk posts=38 joined=2022-08-02T05:18:42.000Z userId=1554335819879845888 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @_ringo_fuji_ posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @_ringo_fuji_ posts=3636 joined=2022-10-02T00:20:49.000Z userId=1576366417783689216 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @ryo_lo2 posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @ryo_lo2 posts=519 joined=2021-08-13T05:17:44.000Z userId=1426050258568503296 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @inuplz posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @inuplz posts=10 joined=2024-06-22T09:09:51.000Z userId=1804441517798686720 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @picipici115 posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @picipici115 posts=185 joined=2026-03-27T10:18:11.000Z userId=2037474117746651136 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @p9_nai posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @p9_nai posts=4985 joined=2021-07-05T01:11:04.000Z userId=1411854941543567364 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @aumngnlmbc99483 posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @aumngnlmbc99483 posts=33 joined=2026-02-12T22:19:43.000Z userId=2022072905602084864 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @vccake_ posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @vccake_ posts=10 joined=2026-03-31T02:01:45.000Z userId=2038797524623089665 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @mm_4pi posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @mm_4pi posts=68 joined=2023-12-18T04:27:44.000Z userId=1736604074357964800 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @8_0re posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @8_0re posts=3464 joined=2019-07-14T23:34:15.000Z userId=1150549094571450368 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @ebebeb___000 posts=157041 joined=2020-12-27T13:00:06.000Z userId=1343179639254966273 articles=0
+[ext] [AIFilter] userdata受信: @ebebeb___000 posts=157041 joined=2020-12-27T13:00:06.000Z userId=1343179639254966273 articles=0
+[ext] [AIFilter] userdata受信: @ebebeb___000 posts=157041 joined=2020-12-27T13:00:06.000Z userId=1343179639254966273 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @__ermt11 posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @__ermt11 posts=2538 joined=2024-03-14T16:22:32.000Z userId=1768311563524644865 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @samo5833 posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @samo5833 posts=1853 joined=2023-12-04T08:47:18.000Z userId=1731595991588188161 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @nosld posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @nosld posts=18584 joined=2017-11-05T11:22:00.000Z userId=927133894461161472 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @ask_a_sheep posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @ask_a_sheep posts=57 joined=2025-12-28T00:11:50.000Z userId=2005069031548878848 articles=0
+[ext] [AIFilter] processAllReplies: 1件
+[ext] [AIFilter] fetchProfile pending(auth未取得): @nariyang2434 bearer=true url=false
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26585 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=1
+[ext] [AIFilter] userdata受信: @tabekkomgmg posts=6788 joined=2012-09-17T17:35:17.000Z userId=829490203 articles=0
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] userdata受信: @love_chaan posts=2706 joined=2022-03-26T17:14:22.000Z userId=1507767864459030528 articles=0
+[ext] [AIFilter] userdata受信: @oq108s posts=1314 joined=2023-06-22T04:50:01.000Z userId=1671742278791204864 articles=0
+[ext] [AIFilter] userdata受信: @ybpc9jy posts=209 joined=2023-12-16T11:00:31.000Z userId=1735978180346044416 articles=0
+[ext] [AIFilter] userdata受信: @oua0001 posts=2118 joined=2023-12-27T13:06:35.000Z userId=1739996155923271680 articles=0
+[ext] [AIFilter] userdata受信: @multalhaq posts=12239 joined=2011-06-19T02:35:22.000Z userId=319971581 articles=0
+[ext] [AIFilter] userdata受信: @xoxomilkyun posts=382 joined=2024-10-21T15:21:15.000Z userId=1848383954380013568 articles=0
+[ext] [AIFilter] userdata受信: @yukki_ciikawa posts=158 joined=2022-11-27T13:17:12.000Z userId=1596855469074657280 articles=0
+[ext] [AIFilter] userdata受信: @7richansuki posts=150 joined=2026-04-17T15:24:44.000Z userId=2045160820553011200 articles=0
+[ext] [AIFilter] userdata受信: @hrau_hrau posts=24999 joined=2013-03-26T13:48:41.000Z userId=1304147509 articles=0
+[ext] [AIFilter] userdata受信: @yuu_x_x_o_o posts=22245 joined=2022-06-04T14:58:00.000Z userId=1533100622001876992 articles=0
+[ext] [AIFilter] userdata受信: @furikake_31 posts=39850 joined=2021-02-16T07:05:46.000Z userId=1361572413163466752 articles=0
+[ext] [AIFilter] userdata受信: @miinkkm posts=6267 joined=2022-05-14T06:50:48.000Z userId=1525367952299524098 articles=0
+[ext] [AIFilter] userdata受信: @cherrydesuuuu posts=1896 joined=2026-02-25T00:07:51.000Z userId=2026448933170589696 articles=0
+[ext] [AIFilter] userdata受信: @nui_inui_ posts=1598 joined=2022-06-29T16:31:52.000Z userId=1542184049464057856 articles=0
+[ext] [AIFilter] userdata受信: @nrrcn_ posts=5954 joined=2023-04-30T23:47:30.000Z userId=1652821945505955841 articles=0
+[ext] [AIFilter] userdata受信: @ciel_920 posts=544 joined=2025-09-18T01:51:43.000Z userId=1968493014080438273 articles=0
+[ext] [AIFilter] userdata受信: @boc_charu posts=2080 joined=2017-09-29T14:09:10.000Z userId=913767611728519169 articles=0
+[ext] [AIFilter] userdata受信: @midotan_0423 posts=103577 joined=2010-05-07T03:19:37.000Z userId=141068489 articles=0
+[ext] [AIFilter] userdata受信: @twwwfuku posts=18116 joined=2020-06-01T13:12:56.000Z userId=1267443893601067008 articles=0
+[ext] [AIFilter] userdata受信: @shilva_l posts=2471 joined=2021-11-26T12:37:43.000Z userId=1464211724408659982 articles=0
+[ext] [AIFilter] userdata受信: @vo_ov__otaku3 posts=5704 joined=2024-07-31T17:45:35.000Z userId=1818704509830676480 articles=0
+[ext] [AIFilter] userdata受信: @nyari_me posts=128 joined=2026-01-26T08:04:24.000Z userId=2015697178849869824 articles=0
+[ext] [AIFilter] userdata受信: @ui_13704 posts=718 joined=2023-07-01T07:43:14.000Z userId=1675047322483572736 articles=0
+[ext] [AIFilter] userdata受信: @munya628_zzz posts=111 joined=2024-10-11T09:43:37.000Z userId=1844675136273985536 articles=0
+[ext] [AIFilter] userdata受信: @_hqth__0306 posts=11886 joined=2023-01-16T08:47:40.000Z userId=1614907158235316224 articles=0
+[ext] [AIFilter] userdata受信: @apuru_tana posts=812 joined=2024-11-30T16:21:17.000Z userId=1862894644050444288 articles=0
+[ext] [AIFilter] userdata受信: @nyari127 posts=5911 joined=2022-05-02T15:44:19.000Z userId=1521153592047988736 articles=0
+[ext] [AIFilter] userdata受信: @oonigiridc posts=22064 joined=2021-09-05T06:52:56.000Z userId=1434409095407169541 articles=0
+[ext] [AIFilter] userdata受信: @tiiino0820 posts=44727 joined=2019-03-27T19:13:12.000Z userId=1110983122428911616 articles=0
+[ext] [AIFilter] userdata受信: @kacch_soft_otnr posts=1769 joined=2023-02-11T15:14:20.000Z userId=1624426290714648576 articles=0
+[ext] [AIFilter] userdata受信: @77_mtn_ posts=6487 joined=2021-06-25T18:36:10.000Z userId=1408494213642088450 articles=0
+[ext] [AIFilter] userdata受信: @zuvtea posts=31738 joined=2022-01-28T14:38:21.000Z userId=1487072498319384582 articles=0
+[ext] [AIFilter] userdata受信: @urp5xk posts=286 joined=2025-09-03T16:47:15.000Z userId=1963282607841677312 articles=0
+[ext] [AIFilter] userdata受信: @_k__i__i__ posts=11240 joined=2020-05-06T15:30:32.000Z userId=1258056382986596354 articles=0
+[ext] [AIFilter] userdata受信: @moronari794 posts=1012 joined=2022-11-28T15:32:58.000Z userId=1597252179508633600 articles=0
+[ext] [AIFilter] processAllReplies: 5件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @tabekkomgmg bearer=true url=false
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @xoxomilkyun bearer=true url=false
+[ext] [AIFilter] fetchProfile pending(auth未取得): @love_chaan bearer=true url=false
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @multalhaq bearer=true url=false
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] UserTweets fetch: nariyang2434 1314091716907991040
+[ext] [AIFilter] processAllReplies: 5件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] processAllReplies: 7件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @oq108s bearer=true url=false
+[ext] [AIFilter] @oq108s posts/day=1.2 (total=1314, age=1053days)
+[ext] [AIFilter] HIT @oq108s total=38 (text=0 beh=0 prof=10) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @yukki_ciikawa bearer=true url=false
+[ext] [AIFilter] @yukki_ciikawa posts/day=0.1 (total=158, age=1260days)
+[ext] [AIFilter] processAllReplies: 8件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] @yukki_ciikawa posts/day=0.1 (total=158, age=1260days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @ybpc9jy bearer=true url=false
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=209, age=876days)
+[ext] [AIFilter] userdata受信: @towa_ebtnomsb posts=11440 joined=2022-04-21T06:17:54.000Z userId=1517024585455378432 articles=0
+[ext] [AIFilter] userdata受信: @ka_f_nari posts=12687 joined=2022-07-02T13:45:59.000Z userId=1543229449780756480 articles=0
+[ext] [AIFilter] userdata受信: @jinma_kagami posts=3336 joined=2023-08-26T14:11:21.000Z userId=1695438674413211648 articles=0
+[ext] [AIFilter] userdata受信: @makeyou_sushi posts=110 joined=2025-12-30T09:15:30.000Z userId=2005930653817397250 articles=0
+[ext] [AIFilter] userdata受信: @ashunanodayo posts=220 joined=2023-11-09T10:44:13.000Z userId=1722565677918420992 articles=0
+[ext] [AIFilter] userdata受信: @ranliz1 posts=2049 joined=2021-07-19T04:09:02.000Z userId=1416973267953324038 articles=0
+[ext] [AIFilter] userdata受信: @u_nj34 posts=928 joined=2025-01-15T14:22:22.000Z userId=1879534462272413696 articles=0
+[ext] [AIFilter] userdata受信: @qlm5u posts=537 joined=2023-02-10T12:58:52.000Z userId=1624030099669667840 articles=0
+[ext] [AIFilter] userdata受信: @ihyr_kmkn posts=14 joined=2022-11-02T18:40:26.000Z userId=1587877176497434629 articles=0
+[ext] [AIFilter] userdata受信: @iuv_yxx posts=307 joined=2025-03-08T11:29:09.000Z userId=1898335113332793344 articles=0
+[ext] [AIFilter] userdata受信: @yachico1371156 posts=1251 joined=2026-02-10T03:02:06.000Z userId=2021056880244817921 articles=0
+[ext] [AIFilter] userdata受信: @ruri_otonari posts=123 joined=2025-09-07T15:02:06.000Z userId=1964705668444889088 articles=0
+[ext] [AIFilter] userdata受信: @ryoto_01260509 posts=6592 joined=2017-08-03T11:04:31.000Z userId=893065033222995970 articles=0
+[ext] [AIFilter] userdata受信: @otomarimate posts=3794 joined=2022-11-09T07:42:37.000Z userId=1590248409729880064 articles=0
+[ext] [AIFilter] userdata受信: @lucy4ray posts=331 joined=2023-04-14T03:38:20.000Z userId=1646719440292315138 articles=0
+[ext] [AIFilter] userdata受信: @slyfox0919 posts=3385 joined=2022-09-02T01:32:21.000Z userId=1565512868485033984 articles=0
+[ext] [AIFilter] userdata受信: @crs_min_luv posts=561 joined=2024-01-31T13:53:38.000Z userId=1752691556438687746 articles=0
+[ext] [AIFilter] userdata受信: @nanahblg_nana posts=145 joined=2026-03-12T11:55:33.000Z userId=2032062159300247552 articles=0
+[ext] [AIFilter] userdata受信: @tyamanya_ posts=132 joined=2024-08-24T15:12:15.000Z userId=1827363242093768705 articles=0
+[ext] [AIFilter] userdata受信: @pikipikibanban posts=71 joined=2025-09-23T14:12:28.000Z userId=1970491321224974336 articles=0
+[ext] [AIFilter] userdata受信: @miru_156 posts=324 joined=2025-09-27T23:52:05.000Z userId=1972086517716877312 articles=0
+[ext] [AIFilter] userdata受信: @popcornloveme posts=11727 joined=2015-10-02T09:57:42.000Z userId=3757736474 articles=0
+[ext] [AIFilter] userdata受信: @mai_otorari posts=1227 joined=2022-11-02T03:33:31.000Z userId=1587648986953158657 articles=0
+[ext] [AIFilter] userdata受信: @ri0_art posts=6 joined=2026-01-05T05:39:28.000Z userId=2008050651616681984 articles=0
+[ext] [AIFilter] userdata受信: @y_rozo3 posts=7754 joined=2025-05-04T22:41:09.000Z userId=1919160344863551488 articles=0
+[ext] [AIFilter] userdata受信: @tmkt0412 posts=65724 joined=2013-04-22T14:04:04.000Z userId=1372217702 articles=0
+[ext] [AIFilter] userdata受信: @hfykydy posts=24157 joined=2014-01-25T12:55:55.000Z userId=2309989260 articles=0
+[ext] [AIFilter] userdata受信: @rarabai_raraba posts=687 joined=2022-09-12T02:38:55.000Z userId=1569153273789313024 articles=0
+[ext] [AIFilter] userdata受信: @sabumarinsabu posts=4352 joined=2021-10-20T08:08:13.000Z userId=1450735514567393285 articles=0
+[ext] [AIFilter] userdata受信: @otnr_hi7 posts=280 joined=2025-11-13T07:48:06.000Z userId=1988876467649060864 articles=0
+[ext] [AIFilter] userdata受信: @picipici115 posts=185 joined=2026-03-27T10:18:11.000Z userId=2037474117746651136 articles=0
+[ext] [AIFilter] userdata受信: @lra777_ posts=88 joined=2025-01-15T09:50:17.000Z userId=1879466040587173888 articles=0
+[ext] [AIFilter] userdata受信: @8uxydb3emw52825 posts=4607 joined=2024-06-05T14:39:58.000Z userId=1798363966382714880 articles=0
+[ext] [AIFilter] userdata受信: @n4r1nyqn_ posts=213 joined=2023-07-25T02:39:04.000Z userId=1683668133440278529 articles=0
+[ext] [AIFilter] userdata受信: @nlbh_rney posts=177 joined=2024-08-17T00:55:55.000Z userId=1824610933769113600 articles=0
+[ext] [AIFilter] userdata受信: @mashiro_ammiy_ posts=8626 joined=2023-02-18T10:24:49.000Z userId=1626890410395308033 articles=0
+[ext] [AIFilter] UserTweets fetch: multalhaq 319971581
+[ext] [AIFilter] UserTweets fetch: xoxomilkyun 1848383954380013568
+[ext] [AIFilter] UserTweets fetch: yukki_ciikawa 1596855469074657280
+[ext] [AIFilter] UserTweets fetch: oq108s 1671742278791204864
+[ext] [AIFilter] UserTweets fetch: tabekkomgmg 829490203
+[ext] [AIFilter] UserTweets fetch: love_chaan 1507767864459030528
+[ext] [AIFilter] UserTweets分析 @nariyang2434: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=5
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] processAllReplies: 11件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] @yukki_ciikawa posts/day=0.1 (total=158, age=1260days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=209, age=876days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @oua0001 bearer=true url=false
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2118, age=865days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @7richansuki bearer=true url=false
+[ext] [AIFilter] @7richansuki posts/day=6.7 (total=150, age=22days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @hrau_hrau bearer=true url=false
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=24999, age=4793days)
+[ext] [AIFilter] processAllReplies: 12件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] @yukki_ciikawa posts/day=0.1 (total=158, age=1260days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=209, age=876days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2118, age=865days)
+[ext] [AIFilter] @7richansuki posts/day=6.7 (total=150, age=22days)
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=24999, age=4793days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @yuu_x_x_o_o bearer=true url=false
+[ext] [AIFilter] @yuu_x_x_o_o posts/day=15.5 (total=22245, age=1435days)
+[ext] [AIFilter] processAllReplies: 13件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] @yukki_ciikawa posts/day=0.1 (total=158, age=1260days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=209, age=876days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2118, age=865days)
+[ext] [AIFilter] @7richansuki posts/day=6.7 (total=150, age=22days)
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=24999, age=4793days)
+[ext] [AIFilter] @yuu_x_x_o_o posts/day=15.5 (total=22245, age=1435days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @furikake_31 bearer=true url=false
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39850, age=1909days)
+[ext] [AIFilter] UserTweets fetch: ybpc9jy 1735978180346044416
+[ext] [AIFilter] UserTweets分析 @xoxomilkyun: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=9
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] UserTweets分析 @multalhaq: 20件 replies=1 uniqueConvos=1 uniformity=0.00 activeHours=12
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] UserTweets分析 @love_chaan: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=7
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] UserTweets分析 @oq108s: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=8
+[ext] [AIFilter] UserTweets分析 @yukki_ciikawa: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=12
+[ext] [AIFilter] @yukki_ciikawa posts/day=0.1 (total=158, age=1260days)
+[ext] [AIFilter] UserTweets分析 @tabekkomgmg: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=9
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] UserTweets fetch: yuu_x_x_o_o 1533100622001876992
+[ext] [AIFilter] UserTweets fetch: hrau_hrau 1304147509
+[ext] [AIFilter] UserTweets fetch: furikake_31 1361572413163466752
+[ext] [AIFilter] UserTweets分析 @ybpc9jy: 20件 replies=2 uniqueConvos=2 uniformity=0.00 activeHours=10
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=209, age=876days)
+[ext] [AIFilter] UserTweets fetch: 7richansuki 2045160820553011200
+[ext] [AIFilter] UserTweets分析 @yuu_x_x_o_o: 23件 replies=2 uniqueConvos=2 uniformity=0.00 activeHours=12
+[ext] [AIFilter] @yuu_x_x_o_o posts/day=15.5 (total=22245, age=1435days)
+[ext] [AIFilter] UserTweets fetch: oua0001 1739996155923271680
+[ext] [AIFilter] UserTweets分析 @hrau_hrau: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=10
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=24999, age=4793days)
+[ext] [AIFilter] UserTweets分析 @furikake_31: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=12
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39850, age=1909days)
+[ext] [AIFilter] UserTweets分析 @7richansuki: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=7
+[ext] [AIFilter] @7richansuki posts/day=6.7 (total=150, age=22days)
+[ext] [AIFilter] UserTweets分析 @oua0001: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=13
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2118, age=865days)
+[ext] [AIFilter] processAllReplies: 17件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] @yukki_ciikawa posts/day=0.1 (total=158, age=1260days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=209, age=876days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2118, age=865days)
+[ext] [AIFilter] @7richansuki posts/day=6.7 (total=150, age=22days)
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=24999, age=4793days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39850, age=1909days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @miinkkm bearer=true url=false
+[ext] [AIFilter] @miinkkm posts/day=4.3 (total=6267, age=1457days)
+[ext] [AIFilter] @yuu_x_x_o_o posts/day=15.5 (total=22245, age=1435days)
+[ext] [AIFilter] HIT @cherrydesuuuu total=33 (text=0 beh=0 prof=30) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @cherrydesuuuu bearer=true url=false
+[ext] [AIFilter] @cherrydesuuuu posts/day=25.6 (total=1896, age=74days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @nui_inui_ bearer=true url=false
+[ext] [AIFilter] @nui_inui_ posts/day=1.1 (total=1598, age=1410days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @nrrcn_ bearer=true url=false
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5954, age=1105days)
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] processAllReplies: 17件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] @yukki_ciikawa posts/day=0.1 (total=158, age=1260days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=209, age=876days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2118, age=865days)
+[ext] [AIFilter] @7richansuki posts/day=6.7 (total=150, age=22days)
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=24999, age=4793days)
+[ext] [AIFilter] @yuu_x_x_o_o posts/day=15.5 (total=22245, age=1435days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39850, age=1909days)
+[ext] [AIFilter] @miinkkm posts/day=4.3 (total=6267, age=1457days)
+[ext] [AIFilter] @nui_inui_ posts/day=1.1 (total=1598, age=1410days)
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5954, age=1105days)
+[ext] [AIFilter] processAllReplies: 20件
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2118, age=865days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] @yukki_ciikawa posts/day=0.1 (total=158, age=1260days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=209, age=876days)
+[ext] [AIFilter] @7richansuki posts/day=6.7 (total=150, age=22days)
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=24999, age=4793days)
+[ext] [AIFilter] @yuu_x_x_o_o posts/day=15.5 (total=22245, age=1435days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39850, age=1909days)
+[ext] [AIFilter] @miinkkm posts/day=4.3 (total=6267, age=1457days)
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5954, age=1105days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @ciel_920 bearer=true url=false
+[ext] [AIFilter] @ciel_920 posts/day=2.3 (total=544, age=234days)
+[ext] [AIFilter] HIT @ciel_920 total=38 (text=0 beh=0 prof=0) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @boc_charu bearer=true url=false
+[ext] [AIFilter] @nui_inui_ posts/day=1.1 (total=1598, age=1410days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2080, age=3145days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @midotan_0423 bearer=true url=false
+[ext] [AIFilter] @midotan_0423 posts/day=17.7 (total=103577, age=5847days)
+[ext] [AIFilter] processAllReplies: 22件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] @yukki_ciikawa posts/day=0.1 (total=158, age=1260days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=209, age=876days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2118, age=865days)
+[ext] [AIFilter] @7richansuki posts/day=6.7 (total=150, age=22days)
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=24999, age=4793days)
+[ext] [AIFilter] @yuu_x_x_o_o posts/day=15.5 (total=22245, age=1435days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39850, age=1909days)
+[ext] [AIFilter] @miinkkm posts/day=4.3 (total=6267, age=1457days)
+[ext] [AIFilter] @nui_inui_ posts/day=1.1 (total=1598, age=1410days)
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5954, age=1105days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2080, age=3145days)
+[ext] [AIFilter] @midotan_0423 posts/day=17.7 (total=103577, age=5847days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @twwwfuku bearer=true url=false
+[ext] [AIFilter] @twwwfuku posts/day=8.4 (total=18116, age=2169days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @shilva_l bearer=true url=false
+[ext] [AIFilter] @shilva_l posts/day=1.5 (total=2471, age=1626days)
+[ext] [AIFilter] processAllReplies: 23件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] @yukki_ciikawa posts/day=0.1 (total=158, age=1260days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=209, age=876days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2118, age=865days)
+[ext] [AIFilter] @7richansuki posts/day=6.7 (total=150, age=22days)
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=24999, age=4793days)
+[ext] [AIFilter] @yuu_x_x_o_o posts/day=15.5 (total=22245, age=1435days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39850, age=1909days)
+[ext] [AIFilter] @miinkkm posts/day=4.3 (total=6267, age=1457days)
+[ext] [AIFilter] @nui_inui_ posts/day=1.1 (total=1598, age=1410days)
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5954, age=1105days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2080, age=3145days)
+[ext] [AIFilter] @midotan_0423 posts/day=17.7 (total=103577, age=5847days)
+[ext] [AIFilter] @twwwfuku posts/day=8.4 (total=18116, age=2169days)
+[ext] [AIFilter] @shilva_l posts/day=1.5 (total=2471, age=1626days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @ui_13704 bearer=true url=false
+[ext] [AIFilter] @ui_13704 posts/day=0.7 (total=718, age=1044days)
+[ext] [AIFilter] UserTweets fetch: miinkkm 1525367952299524098
+[ext] [AIFilter] UserTweets fetch: cherrydesuuuu 2026448933170589696
+[ext] [AIFilter] UserTweets fetch: nrrcn_ 1652821945505955841
+[ext] [AIFilter] UserTweets fetch: nui_inui_ 1542184049464057856
+[ext] [AIFilter] UserTweets fetch: midotan_0423 141068489
+[ext] [AIFilter] UserTweets fetch: ciel_920 1968493014080438273
+[ext] [AIFilter] processAllReplies: 24件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] @yukki_ciikawa posts/day=0.1 (total=158, age=1260days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=209, age=876days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2118, age=865days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39850, age=1909days)
+[ext] [AIFilter] @7richansuki posts/day=6.7 (total=150, age=22days)
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=24999, age=4793days)
+[ext] [AIFilter] @yuu_x_x_o_o posts/day=15.5 (total=22245, age=1435days)
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5954, age=1105days)
+[ext] [AIFilter] @miinkkm posts/day=4.3 (total=6267, age=1457days)
+[ext] [AIFilter] @nui_inui_ posts/day=1.1 (total=1598, age=1410days)
+[ext] [AIFilter] @shilva_l posts/day=1.5 (total=2471, age=1626days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2080, age=3145days)
+[ext] [AIFilter] @midotan_0423 posts/day=17.7 (total=103577, age=5847days)
+[ext] [AIFilter] @twwwfuku posts/day=8.4 (total=18116, age=2169days)
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=111, age=576days)
+[ext] [AIFilter] @ui_13704 posts/day=0.7 (total=718, age=1044days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @munya628_zzz bearer=true url=false
+[ext] [AIFilter] processAllReplies: 25件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] @yukki_ciikawa posts/day=0.1 (total=158, age=1260days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=209, age=876days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2118, age=865days)
+[ext] [AIFilter] @7richansuki posts/day=6.7 (total=150, age=22days)
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=24999, age=4793days)
+[ext] [AIFilter] @yuu_x_x_o_o posts/day=15.5 (total=22245, age=1435days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39850, age=1909days)
+[ext] [AIFilter] @miinkkm posts/day=4.3 (total=6267, age=1457days)
+[ext] [AIFilter] @nui_inui_ posts/day=1.1 (total=1598, age=1410days)
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5954, age=1105days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2080, age=3145days)
+[ext] [AIFilter] @midotan_0423 posts/day=17.7 (total=103577, age=5847days)
+[ext] [AIFilter] @twwwfuku posts/day=8.4 (total=18116, age=2169days)
+[ext] [AIFilter] @shilva_l posts/day=1.5 (total=2471, age=1626days)
+[ext] [AIFilter] @ui_13704 posts/day=0.7 (total=718, age=1044days)
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=111, age=576days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @_hqth__0306 bearer=true url=false
+[ext] [AIFilter] @_hqth__0306 posts/day=9.8 (total=11886, age=1210days)
+[ext] [AIFilter] UserTweets fetch: boc_charu 913767611728519169
+[ext] [AIFilter] UserTweets fetch: twwwfuku 1267443893601067008
+[ext] [AIFilter] UserTweets分析 @miinkkm: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=7
+[ext] [AIFilter] @miinkkm posts/day=4.3 (total=6267, age=1457days)
+[ext] [AIFilter] UserTweets分析 @cherrydesuuuu: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=11
+[ext] [AIFilter] UserTweets分析 @nui_inui_: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=10
+[ext] [AIFilter] @nui_inui_ posts/day=1.1 (total=1598, age=1410days)
+[ext] [AIFilter] UserTweets分析 @nrrcn_: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=9
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5954, age=1105days)
+[ext] [AIFilter] UserTweets fetch: munya628_zzz 1844675136273985536
+[ext] [AIFilter] UserTweets fetch: ui_13704 1675047322483572736
+[ext] [AIFilter] UserTweets fetch: shilva_l 1464211724408659982
+[ext] [AIFilter] UserTweets分析 @ciel_920: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=12
+[ext] [AIFilter] UserTweets分析 @midotan_0423: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=11
+[ext] [AIFilter] @midotan_0423 posts/day=17.7 (total=103577, age=5847days)
+[ext] [AIFilter] UserTweets分析 @twwwfuku: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=8
+[ext] [AIFilter] @twwwfuku posts/day=8.4 (total=18116, age=2169days)
+[ext] [AIFilter] UserTweets分析 @boc_charu: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=12
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2080, age=3145days)
+[ext] [AIFilter] UserTweets fetch: _hqth__0306 1614907158235316224
+[ext] [AIFilter] UserTweets分析 @munya628_zzz: 20件 replies=2 uniqueConvos=2 uniformity=0.00 activeHours=9
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=111, age=576days)
+[ext] [AIFilter] UserTweets分析 @shilva_l: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=7
+[ext] [AIFilter] @shilva_l posts/day=1.5 (total=2471, age=1626days)
+[ext] [AIFilter] UserTweets分析 @ui_13704: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=9
+[ext] [AIFilter] @ui_13704 posts/day=0.7 (total=718, age=1044days)
+[ext] [AIFilter] UserTweets分析 @_hqth__0306: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=9
+[ext] [AIFilter] @_hqth__0306 posts/day=9.8 (total=11886, age=1210days)
+[ext] [AIFilter] processAllReplies: 22件
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=24999, age=4793days)
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] @yuu_x_x_o_o posts/day=15.5 (total=22245, age=1435days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39850, age=1909days)
+[ext] [AIFilter] @miinkkm posts/day=4.3 (total=6267, age=1457days)
+[ext] [AIFilter] @nui_inui_ posts/day=1.1 (total=1598, age=1410days)
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5954, age=1105days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2080, age=3145days)
+[ext] [AIFilter] @shilva_l posts/day=1.5 (total=2471, age=1626days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] @midotan_0423 posts/day=17.7 (total=103577, age=5847days)
+[ext] [AIFilter] @twwwfuku posts/day=8.4 (total=18116, age=2169days)
+[ext] [AIFilter] @yukki_ciikawa posts/day=0.1 (total=158, age=1260days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=209, age=876days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2118, age=865days)
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] @7richansuki posts/day=6.7 (total=150, age=22days)
+[ext] [AIFilter] processAllReplies: 24件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] @yuu_x_x_o_o posts/day=15.5 (total=22245, age=1435days)
+[ext] [AIFilter] @yukki_ciikawa posts/day=0.1 (total=158, age=1260days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=209, age=876days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2118, age=865days)
+[ext] [AIFilter] @7richansuki posts/day=6.7 (total=150, age=22days)
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=24999, age=4793days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39850, age=1909days)
+[ext] [AIFilter] @miinkkm posts/day=4.3 (total=6267, age=1457days)
+[ext] [AIFilter] @nui_inui_ posts/day=1.1 (total=1598, age=1410days)
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5954, age=1105days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2080, age=3145days)
+[ext] [AIFilter] @midotan_0423 posts/day=17.7 (total=103577, age=5847days)
+[ext] [AIFilter] @twwwfuku posts/day=8.4 (total=18116, age=2169days)
+[ext] [AIFilter] @shilva_l posts/day=1.5 (total=2471, age=1626days)
+[ext] [AIFilter] @ui_13704 posts/day=0.7 (total=718, age=1044days)
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=111, age=576days)
+[ext] [AIFilter] processAllReplies: 25件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26585, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6788, age=4982days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2706, age=1505days)
+[ext] [AIFilter] @multalhaq posts/day=2.3 (total=12239, age=5439days)
+[ext] [AIFilter] @xoxomilkyun posts/day=0.7 (total=382, age=565days)
+[ext] [AIFilter] @yukki_ciikawa posts/day=0.1 (total=158, age=1260days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=209, age=876days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2118, age=865days)
+[ext] [AIFilter] @7richansuki posts/day=6.7 (total=150, age=22days)
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=24999, age=4793days)
+[ext] [AIFilter] @yuu_x_x_o_o posts/day=15.5 (total=22245, age=1435days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39850, age=1909days)
+[ext] [AIFilter] @miinkkm posts/day=4.3 (total=6267, age=1457days)
+[ext] [AIFilter] @nui_inui_ posts/day=1.1 (total=1598, age=1410days)
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5954, age=1105days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2080, age=3145days)
+[ext] [AIFilter] @midotan_0423 posts/day=17.7 (total=103577, age=5847days)
+[ext] [AIFilter] @twwwfuku posts/day=8.4 (total=18116, age=2169days)
+[ext] [AIFilter] @shilva_l posts/day=1.5 (total=2471, age=1626days)
+[ext] [AIFilter] @ui_13704 posts/day=0.7 (total=718, age=1044days)
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=111, age=576days)
+[ext] [AIFilter] @_hqth__0306 posts/day=9.8 (total=11886, age=1210days)
+[ext] [AIFilter] userdata受信: @lipod_taisho posts=328376 joined=2015-04-10T09:33:51.000Z userId=3147766916 articles=0
+[ext] [AIFilter] content.js loaded v3-core https://x.com/NariYang2434/status/2053294128516280651
+[ext] [AIFilter] loadStorage完了 enabled=true threshold=30
+[ext] [AIFilter] IIFE開始
+[ext] [AIFilter] 関数定義完了 → SPA observer設定中
+[ext] [AIFilter] loadStorage完了 → 再スキャン
+[ext] [AIFilter] IndexedDB: 288件ロード, 0件期限切れ削除
+[ext] [AIFilter] startObserver完了
+[ext] [AIFilter] init完了 → setTimeout登録
+[ext] [AIFilter] sessionStorageからbearer復元
+[ext] [AIFilter] UserTweets URL受信: https://x.com/i/api/graphql/lrMzG9qPQHpqJdP3AbM-bQ/UserTweets
+[ext] [AIFilter] userdata受信: @sabotenten2929 posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26591 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26591 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @tabekkomgmg posts=6806 joined=2012-09-17T17:35:17.000Z userId=829490203 articles=0
+[ext] [AIFilter] userdata受信: @gesuinotonari posts=12477 joined=2020-02-03T09:16:51.000Z userId=1224260378101567488 articles=0
+[ext] [AIFilter] userdata受信: @k_nr_k posts=4227 joined=2022-03-15T00:46:59.000Z userId=1503533147006275584 articles=0
+[ext] [AIFilter] userdata受信: @absente_gogh posts=3084 joined=2017-06-20T00:36:54.000Z userId=876962025502425088 articles=0
+[ext] [AIFilter] userdata受信: @absente_gogh posts=3084 joined=2017-06-20T00:36:54.000Z userId=876962025502425088 articles=0
+[ext] [AIFilter] userdata受信: @oua0001 posts=2119 joined=2023-12-27T13:06:35.000Z userId=1739996155923271680 articles=0
+[ext] [AIFilter] userdata受信: @im1ah posts=1374 joined=2023-03-02T06:36:57.000Z userId=1631181745029795841 articles=0
+[ext] [AIFilter] userdata受信: @osiroiv posts=21780 joined=2019-03-31T16:38:19.000Z userId=1112393696698200065 articles=0
+[ext] [AIFilter] userdata受信: @furikake_31 posts=39853 joined=2021-02-16T07:05:46.000Z userId=1361572413163466752 articles=0
+[ext] [AIFilter] userdata受信: @ybpc9jy posts=214 joined=2023-12-16T11:00:31.000Z userId=1735978180346044416 articles=0
+[ext] [AIFilter] userdata受信: @zuvtea posts=31758 joined=2022-01-28T14:38:21.000Z userId=1487072498319384582 articles=0
+[ext] [AIFilter] userdata受信: @tsu_n4aa posts=10648 joined=2023-05-08T12:01:55.000Z userId=1655543450916495360 articles=0
+[ext] [AIFilter] userdata受信: @o107ris2 posts=6271 joined=2023-05-16T07:39:25.000Z userId=1658376416646565888 articles=0
+[ext] [AIFilter] userdata受信: @boc_charu posts=2081 joined=2017-09-29T14:09:10.000Z userId=913767611728519169 articles=0
+[ext] [AIFilter] userdata受信: @hirosima04111 posts=9463 joined=2017-11-23T07:24:14.000Z userId=933597040944152576 articles=0
+[ext] [AIFilter] userdata受信: @munya628_zzz posts=112 joined=2024-10-11T09:43:37.000Z userId=1844675136273985536 articles=0
+[ext] [AIFilter] userdata受信: @sweetnana29 posts=113358 joined=2013-12-19T05:32:25.000Z userId=2253026592 articles=0
+[ext] [AIFilter] userdata受信: @chigimaro_11 posts=1812 joined=2014-06-12T11:56:49.000Z userId=2563284889 articles=0
+[ext] [AIFilter] userdata受信: @otonari_rio posts=7853 joined=2021-08-26T03:12:32.000Z userId=1430729731696074759 articles=0
+[ext] [AIFilter] userdata受信: @cherrydesuuuu posts=1915 joined=2026-02-25T00:07:51.000Z userId=2026448933170589696 articles=0
+[ext] [AIFilter] userdata受信: @nrrcn_ posts=5960 joined=2023-04-30T23:47:30.000Z userId=1652821945505955841 articles=0
+[ext] [AIFilter] userdata受信: @uzuki_no_nami posts=1420 joined=2022-12-19T14:22:01.000Z userId=1604844422281146368 articles=0
+[ext] [AIFilter] userdata受信: @apuru_tana posts=821 joined=2024-11-30T16:21:17.000Z userId=1862894644050444288 articles=0
+[ext] [AIFilter] userdata受信: @_hqth__0306 posts=11895 joined=2023-01-16T08:47:40.000Z userId=1614907158235316224 articles=0
+[ext] [AIFilter] userdata受信: @midotan_0423 posts=103585 joined=2010-05-07T03:19:37.000Z userId=141068489 articles=0
+[ext] [AIFilter] userdata受信: @hrau_hrau posts=25004 joined=2013-03-26T13:48:41.000Z userId=1304147509 articles=0
+[ext] [AIFilter] userdata受信: @ina_0to7ri posts=2650 joined=2023-12-02T08:57:42.000Z userId=1730873805625823232 articles=0
+[ext] [AIFilter] userdata受信: @shilva_l posts=2471 joined=2021-11-26T12:37:43.000Z userId=1464211724408659982 articles=0
+[ext] [AIFilter] userdata受信: @vo_ov__otaku3 posts=5711 joined=2024-07-31T17:45:35.000Z userId=1818704509830676480 articles=0
+[ext] [AIFilter] userdata受信: @ka_f_nari posts=12694 joined=2022-07-02T13:45:59.000Z userId=1543229449780756480 articles=0
+[ext] [AIFilter] userdata受信: @ohaaaanaru posts=29958 joined=2016-12-18T13:30:00.000Z userId=810477215037227009 articles=0
+[ext] [AIFilter] userdata受信: @jinma_kagami posts=3338 joined=2023-08-26T14:11:21.000Z userId=1695438674413211648 articles=0
+[ext] [AIFilter] userdata受信: @nui_inui_ posts=1598 joined=2022-06-29T16:31:52.000Z userId=1542184049464057856 articles=0
+[ext] [AIFilter] userdata受信: @mci_molp posts=1369 joined=2020-04-14T01:07:57.000Z userId=1249866865112788993 articles=0
+[ext] [AIFilter] userdata受信: @77_mtn_ posts=6493 joined=2021-06-25T18:36:10.000Z userId=1408494213642088450 articles=0
+[ext] [AIFilter] userdata受信: @mci_molp posts=1369 joined=2020-04-14T01:07:57.000Z userId=1249866865112788993 articles=0
+[ext] [AIFilter] userdata受信: @yuu_x_x_o_o posts=22262 joined=2022-06-04T14:58:00.000Z userId=1533100622001876992 articles=0
+[ext] [AIFilter] userdata受信: @hr_zzz_ posts=3209 joined=2024-11-22T17:16:13.000Z userId=1860009340515811328 articles=0
+[ext] [AIFilter] userdata受信: @xoxomilkyun posts=381 joined=2024-10-21T15:21:15.000Z userId=1848383954380013568 articles=0
+[ext] [AIFilter] userdata受信: @twwwfuku posts=18116 joined=2020-06-01T13:12:56.000Z userId=1267443893601067008 articles=0
+[ext] [AIFilter] processAllReplies: 1件
+[ext] [AIFilter] fetchProfile pending(auth未取得): @nariyang2434 bearer=true url=false
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26591, age=2040days)
+[ext] [AIFilter] processAllReplies: 4件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26591, age=2040days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @tabekkomgmg bearer=true url=false
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @gesuinotonari bearer=true url=false
+[ext] [AIFilter] @gesuinotonari posts/day=5.5 (total=12477, age=2288days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @k_nr_k bearer=true url=false
+[ext] [AIFilter] @k_nr_k posts/day=2.8 (total=4227, age=1518days)
+[ext] [AIFilter] userdata受信: @lipod_taisho posts=328376 joined=2015-04-10T09:33:51.000Z userId=3147766916 articles=0
+[ext] [AIFilter] UserTweets fetch: nariyang2434 1314091716907991040
+[ext] [AIFilter] UserTweets fetch: k_nr_k 1503533147006275584
+[ext] [AIFilter] UserTweets fetch: gesuinotonari 1224260378101567488
+[ext] [AIFilter] UserTweets fetch: tabekkomgmg 829490203
+[ext] [AIFilter] processAllReplies: 5件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26591, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] @gesuinotonari posts/day=5.5 (total=12477, age=2288days)
+[ext] [AIFilter] @k_nr_k posts/day=2.8 (total=4227, age=1518days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @osiroiv bearer=true url=false
+[ext] [AIFilter] @osiroiv posts/day=8.4 (total=21780, age=2597days)
+[ext] [AIFilter] processAllReplies: 7件
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] @gesuinotonari posts/day=5.5 (total=12477, age=2288days)
+[ext] [AIFilter] @k_nr_k posts/day=2.8 (total=4227, age=1518days)
+[ext] [AIFilter] @osiroiv posts/day=8.4 (total=21780, age=2597days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @furikake_31 bearer=true url=false
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39853, age=1909days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @absente_gogh bearer=true url=false
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @oua0001 bearer=true url=false
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] processAllReplies: 8件
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] @gesuinotonari posts/day=5.5 (total=12477, age=2288days)
+[ext] [AIFilter] @k_nr_k posts/day=2.8 (total=4227, age=1518days)
+[ext] [AIFilter] @osiroiv posts/day=8.4 (total=21780, age=2597days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39853, age=1909days)
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @im1ah bearer=true url=false
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] UserTweets fetch: osiroiv 1112393696698200065
+[ext] [AIFilter] processAllReplies: 15件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26591, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] @gesuinotonari posts/day=5.5 (total=12477, age=2288days)
+[ext] [AIFilter] @k_nr_k posts/day=2.8 (total=4227, age=1518days)
+[ext] [AIFilter] @osiroiv posts/day=8.4 (total=21780, age=2597days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39853, age=1909days)
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @ybpc9jy bearer=true url=false
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=214, age=876days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @tsu_n4aa bearer=true url=false
+[ext] [AIFilter] @tsu_n4aa posts/day=9.7 (total=10648, age=1098days)
+[ext] [AIFilter] HIT @tsu_n4aa total=33 (text=0 beh=0 prof=30) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @zuvtea bearer=true url=false
+[ext] [AIFilter] fetchProfile pending(auth未取得): @o107ris2 bearer=true url=false
+[ext] [AIFilter] @zuvtea posts/day=20.3 (total=31758, age=1563days)
+[ext] [AIFilter] @o107ris2 posts/day=5.8 (total=6271, age=1090days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @boc_charu bearer=true url=false
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2081, age=3145days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @hirosima04111 bearer=true url=false
+[ext] [AIFilter] @hirosima04111 posts/day=3.1 (total=9463, age=3090days)
+[ext] [AIFilter] HIT @hirosima04111 total=35 (text=0 beh=0 prof=0) thr=30
+[ext] [AIFilter] HIT @zuvtea total=61 (text=0 beh=0 prof=45) thr=30
+[ext] [AIFilter] processAllReplies: 15件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26591, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] @gesuinotonari posts/day=5.5 (total=12477, age=2288days)
+[ext] [AIFilter] @k_nr_k posts/day=2.8 (total=4227, age=1518days)
+[ext] [AIFilter] @osiroiv posts/day=8.4 (total=21780, age=2597days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39853, age=1909days)
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=214, age=876days)
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] @o107ris2 posts/day=5.8 (total=6271, age=1090days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2081, age=3145days)
+[ext] [AIFilter] UserTweets分析 @nariyang2434: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=7
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26591, age=2040days)
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26591, age=2040days)
+[ext] [AIFilter] UserTweets分析 @k_nr_k: 20件 replies=1 uniqueConvos=1 uniformity=0.00 activeHours=8
+[ext] [AIFilter] @k_nr_k posts/day=2.8 (total=4227, age=1518days)
+[ext] [AIFilter] UserTweets分析 @tabekkomgmg: 21件 replies=1 uniqueConvos=1 uniformity=0.00 activeHours=9
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] UserTweets分析 @gesuinotonari: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=10
+[ext] [AIFilter] @gesuinotonari posts/day=5.5 (total=12477, age=2288days)
+[ext] [AIFilter] UserTweets fetch: furikake_31 1361572413163466752
+[ext] [AIFilter] processAllReplies: 17件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26591, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] @gesuinotonari posts/day=5.5 (total=12477, age=2288days)
+[ext] [AIFilter] @k_nr_k posts/day=2.8 (total=4227, age=1518days)
+[ext] [AIFilter] @osiroiv posts/day=8.4 (total=21780, age=2597days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39853, age=1909days)
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=214, age=876days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2081, age=3145days)
+[ext] [AIFilter] @o107ris2 posts/day=5.8 (total=6271, age=1090days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @munya628_zzz bearer=true url=false
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=112, age=576days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @sweetnana29 bearer=true url=false
+[ext] [AIFilter] @sweetnana29 posts/day=25.0 (total=113358, age=4525days)
+[ext] [AIFilter] UserTweets fetch: oua0001 1739996155923271680
+[ext] [AIFilter] UserTweets fetch: absente_gogh 876962025502425088
+[ext] [AIFilter] UserTweets fetch: im1ah 1631181745029795841
+[ext] [AIFilter] UserTweets fetch: ybpc9jy 1735978180346044416
+[ext] [AIFilter] UserTweets fetch: zuvtea 1487072498319384582
+[ext] [AIFilter] UserTweets fetch: o107ris2 1658376416646565888
+[ext] [AIFilter] UserTweets fetch: hirosima04111 933597040944152576
+[ext] [AIFilter] UserTweets fetch: tsu_n4aa 1655543450916495360
+[ext] [AIFilter] UserTweets fetch: boc_charu 913767611728519169
+[ext] [AIFilter] UserTweets分析 @osiroiv: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=8
+[ext] [AIFilter] @osiroiv posts/day=8.4 (total=21780, age=2597days)
+[ext] [AIFilter] UserTweets分析 @furikake_31: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=13
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39853, age=1909days)
+[ext] [AIFilter] UserTweets fetch: sweetnana29 2253026592
+[ext] [AIFilter] UserTweets分析 @oua0001: 20件 replies=1 uniqueConvos=1 uniformity=0.00 activeHours=13
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] UserTweets分析 @ybpc9jy: 20件 replies=2 uniqueConvos=2 uniformity=0.00 activeHours=10
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=214, age=876days)
+[ext] [AIFilter] UserTweets分析 @zuvtea: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=7
+[ext] [AIFilter] UserTweets分析 @o107ris2: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=6
+[ext] [AIFilter] @o107ris2 posts/day=5.8 (total=6271, age=1090days)
+[ext] [AIFilter] UserTweets分析 @im1ah: 20件 replies=3 uniqueConvos=3 uniformity=0.40 activeHours=10
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] UserTweets fetch: munya628_zzz 1844675136273985536
+[ext] [AIFilter] UserTweets分析 @absente_gogh: 21件 replies=1 uniqueConvos=1 uniformity=0.00 activeHours=12
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] UserTweets分析 @hirosima04111: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=9
+[ext] [AIFilter] UserTweets分析 @boc_charu: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=12
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2081, age=3145days)
+[ext] [AIFilter] UserTweets分析 @sweetnana29: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=7
+[ext] [AIFilter] @sweetnana29 posts/day=25.0 (total=113358, age=4525days)
+[ext] [AIFilter] UserTweets分析 @tsu_n4aa: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=10
+[ext] [AIFilter] UserTweets分析 @munya628_zzz: 20件 replies=2 uniqueConvos=2 uniformity=0.00 activeHours=8
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=112, age=576days)
+[ext] [AIFilter] processAllReplies: 12件
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] @gesuinotonari posts/day=5.5 (total=12477, age=2288days)
+[ext] [AIFilter] @k_nr_k posts/day=2.8 (total=4227, age=1518days)
+[ext] [AIFilter] @osiroiv posts/day=8.4 (total=21780, age=2597days)
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39853, age=1909days)
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=214, age=876days)
+[ext] [AIFilter] @o107ris2 posts/day=5.8 (total=6271, age=1090days)
+[ext] [AIFilter] processAllReplies: 12件
+[ext] [AIFilter] @k_nr_k posts/day=2.8 (total=4227, age=1518days)
+[ext] [AIFilter] @osiroiv posts/day=8.4 (total=21780, age=2597days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39853, age=1909days)
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=214, age=876days)
+[ext] [AIFilter] @o107ris2 posts/day=5.8 (total=6271, age=1090days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2081, age=3145days)
+[ext] [AIFilter] @hirosima04111 posts/day=3.1 (total=9463, age=3090days)
+[ext] [AIFilter] HIT @hirosima04111 total=35 (text=0 beh=0 prof=0) thr=30
+[ext] [AIFilter] processAllReplies: 12件
+[ext] [AIFilter] @k_nr_k posts/day=2.8 (total=4227, age=1518days)
+[ext] [AIFilter] @osiroiv posts/day=8.4 (total=21780, age=2597days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39853, age=1909days)
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=214, age=876days)
+[ext] [AIFilter] @o107ris2 posts/day=5.8 (total=6271, age=1090days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2081, age=3145days)
+[ext] [AIFilter] processAllReplies: 12件
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39853, age=1909days)
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=214, age=876days)
+[ext] [AIFilter] @o107ris2 posts/day=5.8 (total=6271, age=1090days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2081, age=3145days)
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=112, age=576days)
+[ext] [AIFilter] @sweetnana29 posts/day=25.0 (total=113358, age=4525days)
+[ext] [AIFilter] processAllReplies: 12件
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=214, age=876days)
+[ext] [AIFilter] @o107ris2 posts/day=5.8 (total=6271, age=1090days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2081, age=3145days)
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=112, age=576days)
+[ext] [AIFilter] @sweetnana29 posts/day=25.0 (total=113358, age=4525days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @chigimaro_11 bearer=true url=false
+[ext] [AIFilter] HIT @chigimaro_11 total=33 (text=0 beh=0 prof=30) thr=30
+[ext] [AIFilter] @chigimaro_11 posts/day=0.4 (total=1812, age=4350days)
+[ext] [AIFilter] processAllReplies: 13件
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=214, age=876days)
+[ext] [AIFilter] @o107ris2 posts/day=5.8 (total=6271, age=1090days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2081, age=3145days)
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=112, age=576days)
+[ext] [AIFilter] @sweetnana29 posts/day=25.0 (total=113358, age=4525days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @otonari_rio bearer=true url=false
+[ext] [AIFilter] @otonari_rio posts/day=4.6 (total=7853, age=1718days)
+[ext] [AIFilter] processAllReplies: 14件
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=214, age=876days)
+[ext] [AIFilter] @o107ris2 posts/day=5.8 (total=6271, age=1090days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2081, age=3145days)
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=112, age=576days)
+[ext] [AIFilter] @sweetnana29 posts/day=25.0 (total=113358, age=4525days)
+[ext] [AIFilter] @otonari_rio posts/day=4.6 (total=7853, age=1718days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @cherrydesuuuu bearer=true url=false
+[ext] [AIFilter] @cherrydesuuuu posts/day=25.7 (total=1915, age=75days)
+[ext] [AIFilter] HIT @cherrydesuuuu total=33 (text=0 beh=0 prof=30) thr=30
+[ext] [AIFilter] processAllReplies: 25件
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] @gesuinotonari posts/day=5.5 (total=12477, age=2288days)
+[ext] [AIFilter] @k_nr_k posts/day=2.8 (total=4227, age=1518days)
+[ext] [AIFilter] @osiroiv posts/day=8.4 (total=21780, age=2597days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39853, age=1909days)
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=214, age=876days)
+[ext] [AIFilter] @o107ris2 posts/day=5.8 (total=6271, age=1090days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2081, age=3145days)
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=112, age=576days)
+[ext] [AIFilter] @sweetnana29 posts/day=25.0 (total=113358, age=4525days)
+[ext] [AIFilter] @otonari_rio posts/day=4.6 (total=7853, age=1718days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @nrrcn_ bearer=true url=false
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5960, age=1106days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @uzuki_no_nami bearer=true url=false
+[ext] [AIFilter] fetchProfile pending(auth未取得): @apuru_tana bearer=true url=false
+[ext] [AIFilter] @uzuki_no_nami posts/day=1.1 (total=1420, age=1238days)
+[ext] [AIFilter] @apuru_tana posts/day=1.6 (total=821, age=526days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @_hqth__0306 bearer=true url=false
+[ext] [AIFilter] @_hqth__0306 posts/day=9.8 (total=11895, age=1210days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @midotan_0423 bearer=true url=false
+[ext] [AIFilter] @midotan_0423 posts/day=17.7 (total=103585, age=5847days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @hrau_hrau bearer=true url=false
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=25004, age=4793days)
+[ext] [AIFilter] processAllReplies: 28件
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] @gesuinotonari posts/day=5.5 (total=12477, age=2288days)
+[ext] [AIFilter] @k_nr_k posts/day=2.8 (total=4227, age=1518days)
+[ext] [AIFilter] @osiroiv posts/day=8.4 (total=21780, age=2597days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39853, age=1909days)
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=214, age=876days)
+[ext] [AIFilter] @o107ris2 posts/day=5.8 (total=6271, age=1090days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2081, age=3145days)
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=112, age=576days)
+[ext] [AIFilter] @sweetnana29 posts/day=25.0 (total=113358, age=4525days)
+[ext] [AIFilter] @otonari_rio posts/day=4.6 (total=7853, age=1718days)
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5960, age=1106days)
+[ext] [AIFilter] @uzuki_no_nami posts/day=1.1 (total=1420, age=1238days)
+[ext] [AIFilter] @apuru_tana posts/day=1.6 (total=821, age=526days)
+[ext] [AIFilter] @_hqth__0306 posts/day=9.8 (total=11895, age=1210days)
+[ext] [AIFilter] @midotan_0423 posts/day=17.7 (total=103585, age=5847days)
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=25004, age=4793days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @ina_0to7ri bearer=true url=false
+[ext] [AIFilter] @ina_0to7ri posts/day=3.0 (total=2650, age=890days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @shilva_l bearer=true url=false
+[ext] [AIFilter] @shilva_l posts/day=1.5 (total=2471, age=1626days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @vo_ov__otaku3 bearer=true url=false
+[ext] [AIFilter] @vo_ov__otaku3 posts/day=8.8 (total=5711, age=648days)
+[ext] [AIFilter] processAllReplies: 30件
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] @gesuinotonari posts/day=5.5 (total=12477, age=2288days)
+[ext] [AIFilter] @k_nr_k posts/day=2.8 (total=4227, age=1518days)
+[ext] [AIFilter] @osiroiv posts/day=8.4 (total=21780, age=2597days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39853, age=1909days)
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=214, age=876days)
+[ext] [AIFilter] @o107ris2 posts/day=5.8 (total=6271, age=1090days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2081, age=3145days)
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=112, age=576days)
+[ext] [AIFilter] @sweetnana29 posts/day=25.0 (total=113358, age=4525days)
+[ext] [AIFilter] @otonari_rio posts/day=4.6 (total=7853, age=1718days)
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5960, age=1106days)
+[ext] [AIFilter] @uzuki_no_nami posts/day=1.1 (total=1420, age=1238days)
+[ext] [AIFilter] @apuru_tana posts/day=1.6 (total=821, age=526days)
+[ext] [AIFilter] @_hqth__0306 posts/day=9.8 (total=11895, age=1210days)
+[ext] [AIFilter] @midotan_0423 posts/day=17.7 (total=103585, age=5847days)
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=25004, age=4793days)
+[ext] [AIFilter] @ina_0to7ri posts/day=3.0 (total=2650, age=890days)
+[ext] [AIFilter] @shilva_l posts/day=1.5 (total=2471, age=1626days)
+[ext] [AIFilter] @vo_ov__otaku3 posts/day=8.8 (total=5711, age=648days)
+[ext] [AIFilter] @ohaaaanaru posts/day=8.7 (total=29958, age=3430days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @ka_f_nari bearer=true url=false
+[ext] [AIFilter] @ka_f_nari posts/day=9.0 (total=12694, age=1408days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @ohaaaanaru bearer=true url=false
+[ext] [AIFilter] UserTweets fetch: chigimaro_11 2563284889
+[ext] [AIFilter] UserTweets fetch: otonari_rio 1430729731696074759
+[ext] [AIFilter] UserTweets fetch: apuru_tana 1862894644050444288
+[ext] [AIFilter] UserTweets fetch: nrrcn_ 1652821945505955841
+[ext] [AIFilter] UserTweets fetch: cherrydesuuuu 2026448933170589696
+[ext] [AIFilter] UserTweets fetch: hrau_hrau 1304147509
+[ext] [AIFilter] UserTweets fetch: _hqth__0306 1614907158235316224
+[ext] [AIFilter] UserTweets fetch: uzuki_no_nami 1604844422281146368
+[ext] [AIFilter] UserTweets fetch: midotan_0423 141068489
+[ext] [AIFilter] UserTweets fetch: ina_0to7ri 1730873805625823232
+[ext] [AIFilter] UserTweets fetch: shilva_l 1464211724408659982
+[ext] [AIFilter] processAllReplies: 31件
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] @gesuinotonari posts/day=5.5 (total=12477, age=2288days)
+[ext] [AIFilter] @k_nr_k posts/day=2.8 (total=4227, age=1518days)
+[ext] [AIFilter] @osiroiv posts/day=8.4 (total=21780, age=2597days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39853, age=1909days)
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=214, age=876days)
+[ext] [AIFilter] @o107ris2 posts/day=5.8 (total=6271, age=1090days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2081, age=3145days)
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=112, age=576days)
+[ext] [AIFilter] @sweetnana29 posts/day=25.0 (total=113358, age=4525days)
+[ext] [AIFilter] @otonari_rio posts/day=4.6 (total=7853, age=1718days)
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5960, age=1106days)
+[ext] [AIFilter] @uzuki_no_nami posts/day=1.1 (total=1420, age=1238days)
+[ext] [AIFilter] @apuru_tana posts/day=1.6 (total=821, age=526days)
+[ext] [AIFilter] @_hqth__0306 posts/day=9.8 (total=11895, age=1210days)
+[ext] [AIFilter] @midotan_0423 posts/day=17.7 (total=103585, age=5847days)
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=25004, age=4793days)
+[ext] [AIFilter] @ina_0to7ri posts/day=3.0 (total=2650, age=890days)
+[ext] [AIFilter] @shilva_l posts/day=1.5 (total=2471, age=1626days)
+[ext] [AIFilter] @vo_ov__otaku3 posts/day=8.8 (total=5711, age=648days)
+[ext] [AIFilter] @ka_f_nari posts/day=9.0 (total=12694, age=1408days)
+[ext] [AIFilter] @ohaaaanaru posts/day=8.7 (total=29958, age=3430days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @jinma_kagami bearer=true url=false
+[ext] [AIFilter] @jinma_kagami posts/day=3.4 (total=3338, age=988days)
+[ext] [AIFilter] UserTweets fetch: vo_ov__otaku3 1818704509830676480
+[ext] [AIFilter] processAllReplies: 32件
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] @gesuinotonari posts/day=5.5 (total=12477, age=2288days)
+[ext] [AIFilter] @k_nr_k posts/day=2.8 (total=4227, age=1518days)
+[ext] [AIFilter] @osiroiv posts/day=8.4 (total=21780, age=2597days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39853, age=1909days)
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=214, age=876days)
+[ext] [AIFilter] @o107ris2 posts/day=5.8 (total=6271, age=1090days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2081, age=3145days)
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=112, age=576days)
+[ext] [AIFilter] @sweetnana29 posts/day=25.0 (total=113358, age=4525days)
+[ext] [AIFilter] @otonari_rio posts/day=4.6 (total=7853, age=1718days)
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5960, age=1106days)
+[ext] [AIFilter] @uzuki_no_nami posts/day=1.1 (total=1420, age=1238days)
+[ext] [AIFilter] @apuru_tana posts/day=1.6 (total=821, age=526days)
+[ext] [AIFilter] @_hqth__0306 posts/day=9.8 (total=11895, age=1210days)
+[ext] [AIFilter] @midotan_0423 posts/day=17.7 (total=103585, age=5847days)
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=25004, age=4793days)
+[ext] [AIFilter] @ina_0to7ri posts/day=3.0 (total=2650, age=890days)
+[ext] [AIFilter] @shilva_l posts/day=1.5 (total=2471, age=1626days)
+[ext] [AIFilter] @vo_ov__otaku3 posts/day=8.8 (total=5711, age=648days)
+[ext] [AIFilter] @ka_f_nari posts/day=9.0 (total=12694, age=1408days)
+[ext] [AIFilter] @ohaaaanaru posts/day=8.7 (total=29958, age=3430days)
+[ext] [AIFilter] @jinma_kagami posts/day=3.4 (total=3338, age=988days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @77_mtn_ bearer=true url=false
+[ext] [AIFilter] @77_mtn_ posts/day=3.6 (total=6493, age=1780days)
+[ext] [AIFilter] UserTweets fetch: ka_f_nari 1543229449780756480
+[ext] [AIFilter] processAllReplies: 33件
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] @gesuinotonari posts/day=5.5 (total=12477, age=2288days)
+[ext] [AIFilter] @k_nr_k posts/day=2.8 (total=4227, age=1518days)
+[ext] [AIFilter] @osiroiv posts/day=8.4 (total=21780, age=2597days)
+[ext] [AIFilter] @furikake_31 posts/day=20.9 (total=39853, age=1909days)
+[ext] [AIFilter] @absente_gogh posts/day=0.9 (total=3084, age=3247days)
+[ext] [AIFilter] @oua0001 posts/day=2.4 (total=2119, age=865days)
+[ext] [AIFilter] @im1ah posts/day=1.2 (total=1374, age=1165days)
+[ext] [AIFilter] @ybpc9jy posts/day=0.2 (total=214, age=876days)
+[ext] [AIFilter] @o107ris2 posts/day=5.8 (total=6271, age=1090days)
+[ext] [AIFilter] @boc_charu posts/day=0.7 (total=2081, age=3145days)
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=112, age=576days)
+[ext] [AIFilter] @sweetnana29 posts/day=25.0 (total=113358, age=4525days)
+[ext] [AIFilter] @otonari_rio posts/day=4.6 (total=7853, age=1718days)
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5960, age=1106days)
+[ext] [AIFilter] @uzuki_no_nami posts/day=1.1 (total=1420, age=1238days)
+[ext] [AIFilter] @apuru_tana posts/day=1.6 (total=821, age=526days)
+[ext] [AIFilter] @_hqth__0306 posts/day=9.8 (total=11895, age=1210days)
+[ext] [AIFilter] @midotan_0423 posts/day=17.7 (total=103585, age=5847days)
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=25004, age=4793days)
+[ext] [AIFilter] @ina_0to7ri posts/day=3.0 (total=2650, age=890days)
+[ext] [AIFilter] @shilva_l posts/day=1.5 (total=2471, age=1626days)
+[ext] [AIFilter] @vo_ov__otaku3 posts/day=8.8 (total=5711, age=648days)
+[ext] [AIFilter] @ka_f_nari posts/day=9.0 (total=12694, age=1408days)
+[ext] [AIFilter] @ohaaaanaru posts/day=8.7 (total=29958, age=3430days)
+[ext] [AIFilter] @jinma_kagami posts/day=3.4 (total=3338, age=988days)
+[ext] [AIFilter] @77_mtn_ posts/day=3.6 (total=6493, age=1780days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @nui_inui_ bearer=true url=false
+[ext] [AIFilter] @nui_inui_ posts/day=1.1 (total=1598, age=1411days)
+[ext] [AIFilter] UserTweets fetch: ohaaaanaru 810477215037227009
+[ext] [AIFilter] UserTweets分析 @chigimaro_11: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=8
+[ext] [AIFilter] UserTweets分析 @apuru_tana: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=10
+[ext] [AIFilter] @apuru_tana posts/day=1.6 (total=821, age=526days)
+[ext] [AIFilter] UserTweets分析 @ina_0to7ri: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=8
+[ext] [AIFilter] @ina_0to7ri posts/day=3.0 (total=2650, age=890days)
+[ext] [AIFilter] UserTweets分析 @otonari_rio: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=4
+[ext] [AIFilter] @otonari_rio posts/day=4.6 (total=7853, age=1718days)
+[ext] [AIFilter] UserTweets分析 @uzuki_no_nami: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=7
+[ext] [AIFilter] @uzuki_no_nami posts/day=1.1 (total=1420, age=1238days)
+[ext] [AIFilter] UserTweets分析 @_hqth__0306: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=8
+[ext] [AIFilter] @_hqth__0306 posts/day=9.8 (total=11895, age=1210days)
+[ext] [AIFilter] UserTweets分析 @shilva_l: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=7
+[ext] [AIFilter] @shilva_l posts/day=1.5 (total=2471, age=1626days)
+[ext] [AIFilter] UserTweets分析 @midotan_0423: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=11
+[ext] [AIFilter] @midotan_0423 posts/day=17.7 (total=103585, age=5847days)
+[ext] [AIFilter] UserTweets分析 @nrrcn_: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=9
+[ext] [AIFilter] @nrrcn_ posts/day=5.4 (total=5960, age=1106days)
+[ext] [AIFilter] UserTweets分析 @cherrydesuuuu: 21件 replies=1 uniqueConvos=1 uniformity=0.00 activeHours=8
+[ext] [AIFilter] UserTweets fetch: jinma_kagami 1695438674413211648
+[ext] [AIFilter] UserTweets分析 @ka_f_nari: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=9
+[ext] [AIFilter] @ka_f_nari posts/day=9.0 (total=12694, age=1408days)
+[ext] [AIFilter] UserTweets分析 @vo_ov__otaku3: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=10
+[ext] [AIFilter] @vo_ov__otaku3 posts/day=8.8 (total=5711, age=648days)
+[ext] [AIFilter] UserTweets分析 @hrau_hrau: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=10
+[ext] [AIFilter] @hrau_hrau posts/day=5.2 (total=25004, age=4793days)
+[ext] [AIFilter] UserTweets分析 @ohaaaanaru: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=11
+[ext] [AIFilter] @ohaaaanaru posts/day=8.7 (total=29958, age=3430days)
+[ext] [AIFilter] UserTweets fetch: nui_inui_ 1542184049464057856
+[ext] [AIFilter] UserTweets fetch: 77_mtn_ 1408494213642088450
+[ext] [AIFilter] UserTweets分析 @jinma_kagami: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=11
+[ext] [AIFilter] @jinma_kagami posts/day=3.4 (total=3338, age=988days)
+[ext] [AIFilter] UserTweets分析 @nui_inui_: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=10
+[ext] [AIFilter] @nui_inui_ posts/day=1.1 (total=1598, age=1411days)
+[ext] [AIFilter] UserTweets分析 @77_mtn_: 20件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=10
+[ext] [AIFilter] @77_mtn_ posts/day=3.6 (total=6493, age=1780days)
+[ext] [AIFilter] content.js loaded v3-core https://x.com/NariYang2434/status/2053294128516280651
+[ext] [AIFilter] IIFE開始
+[ext] [AIFilter] 関数定義完了 → SPA observer設定中
+[ext] [AIFilter] startObserver完了
+[ext] [AIFilter] init完了 → setTimeout登録
+[ext] [AIFilter] sessionStorageからbearer復元
+[ext] [AIFilter] loadStorage完了 enabled=true threshold=30
+[ext] [AIFilter] loadStorage完了 → 再スキャン
+[ext] [AIFilter] IndexedDB: 304件ロード, 0件期限切れ削除
+[ext] [AIFilter] UserTweets URL受信: https://x.com/i/api/graphql/lrMzG9qPQHpqJdP3AbM-bQ/UserTweets
+[ext] [AIFilter] userdata受信: @sabotenten2929 posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26591 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @nariyang2434 posts=26591 joined=2020-10-08T06:34:19.000Z userId=1314091716907991040 articles=0
+[ext] [AIFilter] userdata受信: @tabekkomgmg posts=6806 joined=2012-09-17T17:35:17.000Z userId=829490203 articles=0
+[ext] [AIFilter] userdata受信: @love_chaan posts=2721 joined=2022-03-26T17:14:22.000Z userId=1507767864459030528 articles=0
+[ext] [AIFilter] userdata受信: @2n2n_suruyo posts=2674 joined=2021-08-25T00:53:57.000Z userId=1430331201152163841 articles=0
+[ext] [AIFilter] userdata受信: @mizumarup posts=4417 joined=2018-10-20T12:10:55.000Z userId=1053619569363869696 articles=0
+[ext] [AIFilter] userdata受信: @mizumarup posts=4417 joined=2018-10-20T12:10:55.000Z userId=1053619569363869696 articles=0
+[ext] [AIFilter] userdata受信: @munya628_zzz posts=112 joined=2024-10-11T09:43:37.000Z userId=1844675136273985536 articles=0
+[ext] [AIFilter] userdata受信: @cherrydesuuuu posts=1915 joined=2026-02-25T00:07:51.000Z userId=2026448933170589696 articles=0
+[ext] [AIFilter] userdata受信: @towa_ebtnomsb posts=11440 joined=2022-04-21T06:17:54.000Z userId=1517024585455378432 articles=0
+[ext] [AIFilter] userdata受信: @o107ris2 posts=6271 joined=2023-05-16T07:39:25.000Z userId=1658376416646565888 articles=0
+[ext] [AIFilter] userdata受信: @apuru_tana posts=821 joined=2024-11-30T16:21:17.000Z userId=1862894644050444288 articles=0
+[ext] [AIFilter] userdata受信: @k_nr_k posts=4227 joined=2022-03-15T00:46:59.000Z userId=1503533147006275584 articles=0
+[ext] [AIFilter] userdata受信: @ciel_920 posts=554 joined=2025-09-18T01:51:43.000Z userId=1968493014080438273 articles=0
+[ext] [AIFilter] userdata受信: @hirosima04111 posts=9463 joined=2017-11-23T07:24:14.000Z userId=933597040944152576 articles=0
+[ext] [AIFilter] userdata受信: @tsu_n4aa posts=10648 joined=2023-05-08T12:01:55.000Z userId=1655543450916495360 articles=0
+[ext] [AIFilter] userdata受信: @uzuki_no_nami posts=1420 joined=2022-12-19T14:22:01.000Z userId=1604844422281146368 articles=0
+[ext] [AIFilter] userdata受信: @nyari_me posts=131 joined=2026-01-26T08:04:24.000Z userId=2015697178849869824 articles=0
+[ext] [AIFilter] userdata受信: @yukki_ciikawa posts=160 joined=2022-11-27T13:17:12.000Z userId=1596855469074657280 articles=0
+[ext] [AIFilter] userdata受信: @chigimaro_11 posts=1812 joined=2014-06-12T11:56:49.000Z userId=2563284889 articles=0
+[ext] [AIFilter] userdata受信: @yachico1371156 posts=1270 joined=2026-02-10T03:02:06.000Z userId=2021056880244817921 articles=0
+[ext] [AIFilter] userdata受信: @watch_unext posts=177240 joined=2011-03-03T09:26:40.000Z userId=260157526 articles=0
+[ext] [AIFilter] userdata受信: @watch_unext posts=177240 joined=2011-03-03T09:26:40.000Z userId=260157526 articles=0
+[ext] [AIFilter] userdata受信: @oonigiridc posts=22086 joined=2021-09-05T06:52:56.000Z userId=1434409095407169541 articles=0
+[ext] [AIFilter] userdata受信: @lv2pink posts=86868 joined=2010-04-19T02:35:50.000Z userId=134654815 articles=0
+[ext] [AIFilter] userdata受信: @ui_13704 posts=719 joined=2023-07-01T07:43:14.000Z userId=1675047322483572736 articles=0
+[ext] [AIFilter] userdata受信: @im1ah posts=1374 joined=2023-03-02T06:36:57.000Z userId=1631181745029795841 articles=0
+[ext] [AIFilter] userdata受信: @tmkt0412 posts=65726 joined=2013-04-22T14:04:04.000Z userId=1372217702 articles=0
+[ext] [AIFilter] userdata受信: @gesuinotonari posts=12477 joined=2020-02-03T09:16:51.000Z userId=1224260378101567488 articles=0
+[ext] [AIFilter] userdata受信: @7richansuki posts=158 joined=2026-04-17T15:24:44.000Z userId=2045160820553011200 articles=0
+[ext] [AIFilter] userdata受信: @xoxomilkyun posts=376 joined=2024-10-21T15:21:15.000Z userId=1848383954380013568 articles=0
+[ext] [AIFilter] userdata受信: @haierjapan posts=9587 joined=2010-05-22T11:32:44.000Z userId=146805940 articles=0
+[ext] [AIFilter] userdata受信: @haierjapan posts=9587 joined=2010-05-22T11:32:44.000Z userId=146805940 articles=0
+[ext] [AIFilter] userdata受信: @oq108s posts=1314 joined=2023-06-22T04:50:01.000Z userId=1671742278791204864 articles=0
+[ext] [AIFilter] userdata受信: @s1_au7 posts=6140 joined=2023-07-28T00:00:09.000Z userId=1684715220147875840 articles=0
+[ext] [AIFilter] userdata受信: @sweetnana29 posts=113358 joined=2013-12-19T05:32:25.000Z userId=2253026592 articles=0
+[ext] [AIFilter] userdata受信: @ohaaaanaru posts=29958 joined=2016-12-18T13:30:00.000Z userId=810477215037227009 articles=0
+[ext] [AIFilter] userdata受信: @otonari_rio posts=7854 joined=2021-08-26T03:12:32.000Z userId=1430729731696074759 articles=0
+[ext] [AIFilter] userdata受信: @twwwfuku posts=18116 joined=2020-06-01T13:12:56.000Z userId=1267443893601067008 articles=0
+[ext] [AIFilter] userdata受信: @ashunanodayo posts=223 joined=2023-11-09T10:44:13.000Z userId=1722565677918420992 articles=0
+[ext] [AIFilter] userdata受信: @iuv_yxx posts=307 joined=2025-03-08T11:29:09.000Z userId=1898335113332793344 articles=0
+[ext] [AIFilter] userdata受信: @magi_nagini posts=631301 joined=2018-09-29T11:18:40.000Z userId=1045996277316501504 articles=0
+[ext] [AIFilter] userdata受信: @miru_156 posts=334 joined=2025-09-27T23:52:05.000Z userId=1972086517716877312 articles=0
+[ext] [AIFilter] userdata受信: @osiroiv posts=21780 joined=2019-03-31T16:38:19.000Z userId=1112393696698200065 articles=0
+[ext] [AIFilter] processAllReplies: 1件
+[ext] [AIFilter] fetchProfile pending(auth未取得): @nariyang2434 bearer=true url=false
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26591, age=2040days)
+[ext] [AIFilter] processAllReplies: 4件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26591, age=2040days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @tabekkomgmg bearer=true url=false
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @love_chaan bearer=true url=false
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2721, age=1506days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @2n2n_suruyo bearer=true url=false
+[ext] [AIFilter] @2n2n_suruyo posts/day=1.6 (total=2674, age=1720days)
+[ext] [AIFilter] userdata受信: @lipod_taisho posts=328376 joined=2015-04-10T09:33:51.000Z userId=3147766916 articles=0
+[ext] [AIFilter] processAllReplies: 5件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26591, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2721, age=1506days)
+[ext] [AIFilter] @2n2n_suruyo posts/day=1.6 (total=2674, age=1720days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @mizumarup bearer=true url=false
+[ext] [AIFilter] @mizumarup posts/day=1.6 (total=4417, age=2759days)
+[ext] [AIFilter] HIT @mizumarup total=37 (text=12 beh=0 prof=0) thr=30
+[ext] [AIFilter] processAllReplies: 5件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26591, age=2040days)
+[ext] [AIFilter] @2n2n_suruyo posts/day=1.6 (total=2674, age=1720days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2721, age=1506days)
+[ext] [AIFilter] processAllReplies: 6件
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26591, age=2040days)
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2721, age=1506days)
+[ext] [AIFilter] @2n2n_suruyo posts/day=1.6 (total=2674, age=1720days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @munya628_zzz bearer=true url=false
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=112, age=576days)
+[ext] [AIFilter] UserTweets fetch: nariyang2434 1314091716907991040
+[ext] [AIFilter] UserTweets fetch: tabekkomgmg 829490203
+[ext] [AIFilter] UserTweets fetch: mizumarup 1053619569363869696
+[ext] [AIFilter] UserTweets fetch: love_chaan 1507767864459030528
+[ext] [AIFilter] UserTweets fetch: 2n2n_suruyo 1430331201152163841
+[ext] [AIFilter] UserTweets fetch: munya628_zzz 1844675136273985536
+[ext] [AIFilter] UserTweets分析 @mizumarup: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=12
+[ext] [AIFilter] UserTweets分析 @love_chaan: 21件 replies=1 uniqueConvos=1 uniformity=0.00 activeHours=6
+[ext] [AIFilter] @love_chaan posts/day=1.8 (total=2721, age=1506days)
+[ext] [AIFilter] UserTweets分析 @tabekkomgmg: 21件 replies=1 uniqueConvos=1 uniformity=0.00 activeHours=9
+[ext] [AIFilter] UserTweets分析 @nariyang2434: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=7
+[ext] [AIFilter] @tabekkomgmg posts/day=1.4 (total=6806, age=4983days)
+[ext] [AIFilter] @nariyang2434 posts/day=13.0 (total=26591, age=2040days)
+[ext] [AIFilter] UserTweets分析 @2n2n_suruyo: 21件 replies=0 uniqueConvos=0 uniformity=0.00 activeHours=9
+[ext] [AIFilter] @2n2n_suruyo posts/day=1.6 (total=2674, age=1720days)
+[ext] [AIFilter] UserTweets分析 @munya628_zzz: 20件 replies=2 uniqueConvos=2 uniformity=0.00 activeHours=8
+[ext] [AIFilter] @munya628_zzz posts/day=0.2 (total=112, age=576days)

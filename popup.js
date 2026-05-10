@@ -15,7 +15,7 @@ chrome.storage.local.get(null, (data) => {
   const enabled = data.enabled ?? true;
   const threshold = data.threshold ?? 65;
   const flagThreshold = data.flagThreshold ?? 5;
-  const count = data.sessionHiddenCount ?? 0;
+  const count = data.sessionDetectedCount ?? 0;
 
   enabledToggle.checked = enabled;
   settingsBody.classList.toggle('disabled', !enabled);
@@ -27,6 +27,13 @@ chrome.storage.local.get(null, (data) => {
   flagThresholdValue.textContent = flagThreshold;
 
   hiddenCount.textContent = count;
+});
+
+// ストレージの変更をリアルタイムで反映
+chrome.storage.onChanged.addListener((changes) => {
+  if (changes.sessionDetectedCount) {
+    hiddenCount.textContent = changes.sessionDetectedCount.newValue ?? 0;
+  }
 });
 
 // 有効/無効トグル
@@ -52,7 +59,7 @@ flagThresholdSlider.addEventListener('input', () => {
 
 // フラグリセット
 resetFlagsBtn.addEventListener('click', () => {
-  chrome.storage.local.set({ flags: {}, whitelist: [], sessionHiddenCount: 0 }, () => {
+  chrome.storage.local.set({ flags: {}, whitelist: [], sessionHiddenCount: 0, sessionDetectedCount: 0 }, () => {
     hiddenCount.textContent = '0';
     resetMsg.textContent = 'リセットしました';
     setTimeout(() => { resetMsg.textContent = ''; }, 2000);
