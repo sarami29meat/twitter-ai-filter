@@ -1,0 +1,328 @@
+/* Twitter AI Filter — Injected Styles */
+
+.ai-filter-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  background: #f7f7f7;
+  border-left: 3px solid #999;
+  border-radius: 4px;
+  font-size: 13px;
+  color: #555;
+  cursor: default;
+  user-select: none;
+}
+
+[data-color-mode="dark"] .ai-filter-label,
+.dark .ai-filter-label {
+  background: #1e1e1e;
+  color: #aaa;
+  border-left-color: #555;
+}
+
+.ai-filter-label-text {
+  flex: 1;
+  font-weight: 500;
+}
+
+.ai-confidence-badge {
+  font-size: 11px;
+  padding: 2px 6px;
+  border-radius: 10px;
+  font-weight: 600;
+}
+
+.ai-confidence-high .ai-confidence-badge {
+  background: #fde8e8;
+  color: #c0392b;
+}
+
+.ai-confidence-medium .ai-confidence-badge {
+  background: #fef3cd;
+  color: #b7791f;
+}
+
+.ai-confidence-low .ai-confidence-badge {
+  background: #e8f4fd;
+  color: #2980b9;
+}
+
+[data-color-mode="dark"] .ai-confidence-high .ai-confidence-badge {
+  background: #4a1a1a;
+  color: #e07070;
+}
+
+[data-color-mode="dark"] .ai-confidence-medium .ai-confidence-badge {
+  background: #3a2e00;
+  color: #d4a017;
+}
+
+[data-color-mode="dark"] .ai-confidence-low .ai-confidence-badge {
+  background: #0d2a3a;
+  color: #5aabde;
+}
+
+.ai-filter-expand-btn {
+  background: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-size: 12px;
+  color: #555;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.ai-filter-expand-btn:hover {
+  background: #e8e8e8;
+}
+
+[data-color-mode="dark"] .ai-filter-expand-btn {
+  border-color: #444;
+  color: #aaa;
+}
+
+[data-color-mode="dark"] .ai-filter-expand-btn:hover {
+  background: #2a2a2a;
+}
+
+.ai-filter-flag-btn {
+  background: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 2px 8px;
+  font-size: 11px;
+  color: #888;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.ai-filter-flag-btn:hover {
+  background: #e8ffe8;
+  border-color: #4caf50;
+  color: #2e7d32;
+}
+
+.ai-filter-flag-btn.ai-flag-voted {
+  color: #4caf50;
+  border-color: #4caf50;
+}
+
+[data-color-mode="dark"] .ai-filter-flag-btn {
+  border-color: #444;
+  color: #777;
+}
+
+.ai-filter-content {
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.25s ease;
+}
+
+.ai-filter-content.ai-filter-expanded {
+  max-height: 2000px;
+}
+
+.ai-filter-wrapper {
+  border-bottom: 1px solid #f0d0d0;
+}
+
+[data-color-mode="dark"] .ai-filter-wrapper,
+.dark .ai-filter-wrapper {
+  border-bottom-color: #3a1a1a;
+}
+
+.ai-filter-preview {
+  flex: 1;
+  color: #888;
+  font-size: 12px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  min-width: 0;
+}
+
+/* ---- AIコントロールバー ---- */
+#ai-ctrl-bar {
+  position: sticky;
+  top: 53px;
+  z-index: 100;
+  background: #fff5f5;
+  border: 1px solid #e8c0c0;
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin: 4px 0;
+  font-size: 12px;
+}
+
+[data-color-mode="dark"] #ai-ctrl-bar,
+.dark #ai-ctrl-bar {
+  background: #1a0f0f;
+  border-color: #5c2020;
+}
+
+.ai-ctrl-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.ai-ctrl-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: #b03030;
+  flex: 1;
+}
+
+[data-color-mode="dark"] .ai-ctrl-title,
+.dark .ai-ctrl-title {
+  color: #e07070;
+}
+
+.ai-panel-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.ai-panel-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: #b03030;
+  flex: 1;
+  white-space: nowrap;
+}
+
+[data-color-mode="dark"] .ai-panel-title,
+.dark .ai-panel-title {
+  color: #e07070;
+}
+
+.ai-panel-btn {
+  padding: 3px 10px;
+  border-radius: 12px;
+  border: 1px solid #ccc;
+  background: #f5f5f5;
+  color: #333;
+  font-size: 11px;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.ai-panel-btn:hover:not(:disabled) {
+  background: #e8e8e8;
+}
+
+.ai-panel-btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.ai-panel-btn-danger {
+  background: #c0392b;
+  color: #fff;
+  border-color: #c0392b;
+}
+
+.ai-panel-btn-danger:hover:not(:disabled) {
+  background: #a93226;
+  border-color: #a93226;
+}
+
+[data-color-mode="dark"] .ai-panel-btn,
+.dark .ai-panel-btn {
+  background: #2a2a2a;
+  border-color: #444;
+  color: #ccc;
+}
+
+[data-color-mode="dark"] .ai-panel-btn:hover:not(:disabled),
+.dark .ai-panel-btn:hover:not(:disabled) {
+  background: #3a3a3a;
+}
+
+.ai-panel-accounts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 6px;
+}
+
+.ai-account-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  background: #fff0f0;
+  border: 1px solid #f0c0c0;
+  border-radius: 10px;
+  padding: 1px 8px 1px 4px;
+  font-size: 11px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.ai-account-item:hover {
+  background: #ffe0e0;
+}
+
+[data-color-mode="dark"] .ai-account-item,
+.dark .ai-account-item {
+  background: #2a1010;
+  border-color: #5c2020;
+  color: #ddd;
+}
+
+.ai-account-handle {
+  font-weight: 600;
+  color: #c0392b;
+}
+
+[data-color-mode="dark"] .ai-account-handle,
+.dark .ai-account-handle {
+  color: #e07070;
+}
+
+.ai-account-score {
+  color: #999;
+  font-size: 10px;
+}
+
+/* ---- シグナルタグ ---- */
+.ai-signal-tag {
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 600;
+  padding: 1px 5px;
+  border-radius: 4px;
+  background: #ffe8cc;
+  color: #b05000;
+  white-space: nowrap;
+}
+
+[data-color-mode="dark"] .ai-signal-tag,
+.dark .ai-signal-tag {
+  background: #3a1e00;
+  color: #e08030;
+}
+
+/* ---- ミュートボタン ---- */
+.ai-panel-btn-warning {
+  background: #e67e22;
+  color: #fff;
+  border-color: #e67e22;
+}
+
+.ai-panel-btn-warning:hover:not(:disabled) {
+  background: #d35400;
+  border-color: #d35400;
+}
+
+[data-color-mode="dark"] .ai-panel-btn-warning,
+.dark .ai-panel-btn-warning {
+  background: #8b4a00;
+  border-color: #8b4a00;
+}

@@ -1,0 +1,1675 @@
+[ext] [AIFilter] content.js loaded v3-core https://x.com/
+[ext] [AIFilter] init完了 → setTimeout登録
+[ext] [AIFilter] 関数定義完了 → SPA observer設定中
+[ext] [AIFilter] IIFE開始
+[ext] [AIFilter] startObserver完了
+[ext] [AIFilter] loadStorage完了 enabled=true threshold=30
+[ext] [AIFilter] loadStorage完了 → 再スキャン
+[ext] [AIFilter] IndexedDB: 63件ロード, 0件期限切れ削除
+[ext] [AIFilter] sessionStorageからbearer復元
+[ext] [AIFilter] userdata受信: @sabotenten2929 posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @onigiri2509 posts=480 joined=2025-10-01T17:27:47.000Z userId=1973439644563046400 articles=0
+[ext] [AIFilter] userdata受信: @amazonmusicjp posts=668165 joined=2017-09-21T06:25:34.000Z userId=910751840492412928 articles=0
+[ext] [AIFilter] userdata受信: @amazonmusicjp posts=668165 joined=2017-09-21T06:25:34.000Z userId=910751840492412928 articles=0
+[ext] [AIFilter] userdata受信: @mikatahihanch posts=3181 joined=2024-10-26T11:48:13.000Z userId=1850142309821886464 articles=0
+[ext] [AIFilter] userdata受信: @tus_ma__ posts=1074 joined=2026-04-05T12:41:53.000Z userId=2040771859247996928 articles=0
+[ext] [AIFilter] userdata受信: @_mumei_r posts=4606 joined=2020-09-14T13:12:54.000Z userId=1305494646189993984 articles=0
+[ext] [AIFilter] userdata受信: @goingsteady___ posts=4192 joined=2020-07-27T15:53:56.000Z userId=1287778218494181377 articles=0
+[ext] [AIFilter] userdata受信: @sabagoma_563 posts=19845 joined=2022-09-07T10:27:29.000Z userId=1567459462436503557 articles=0
+[ext] [AIFilter] userdata受信: @belmond_b_2434 posts=43203 joined=2018-06-14T10:51:47.000Z userId=1007214007827091456 articles=0
+[ext] [AIFilter] userdata受信: @makaino_sub posts=4184 joined=2021-05-02T05:36:51.000Z userId=1388728890932162560 articles=0
+[ext] [AIFilter] userdata受信: @madaomoshiroi posts=6664 joined=2021-12-21T05:42:16.000Z userId=1473166885516906496 articles=0
+[ext] [AIFilter] userdata受信: @mamlmu45451 posts=7882 joined=2016-03-21T12:00:19.000Z userId=711885142864715776 articles=0
+[ext] [AIFilter] userdata受信: @mamlmu45451 posts=7882 joined=2016-03-21T12:00:19.000Z userId=711885142864715776 articles=0
+[ext] [AIFilter] userdata受信: @ghana_recipe posts=2128820 joined=2017-01-06T02:42:03.000Z userId=817199522212261888 articles=0
+[ext] [AIFilter] userdata受信: @ghana_recipe posts=2128820 joined=2017-01-06T02:42:03.000Z userId=817199522212261888 articles=0
+[ext] [AIFilter] userdata受信: @rine_yaguruma posts=11150 joined=2018-09-22T16:51:36.000Z userId=1043543347430797312 articles=0
+[ext] [AIFilter] userdata受信: @teriteritoushi posts=149330 joined=2019-12-12T09:22:25.000Z userId=1205055166161932288 articles=0
+[ext] [AIFilter] userdata受信: @kinokino35 posts=11451 joined=2022-08-03T00:02:54.000Z userId=1554618742994358273 articles=0
+[ext] [AIFilter] userdata受信: @nagisakamen posts=13616 joined=2021-02-07T10:43:38.000Z userId=1358365750306566146 articles=0
+[ext] [AIFilter] userdata受信: @mufgbk_official posts=257365 joined=2015-03-12T11:21:54.000Z userId=3075091255 articles=0
+[ext] [AIFilter] userdata受信: @mufgbk_official posts=257365 joined=2015-03-12T11:21:54.000Z userId=3075091255 articles=0
+[ext] [AIFilter] userdata受信: @ruru_coo_ posts=228 joined=2024-05-31T15:06:41.000Z userId=1796558873245216768 articles=0
+[ext] [AIFilter] userdata受信: @pandapantade posts=27740 joined=2017-02-19T18:05:43.000Z userId=833377036911665161 articles=0
+[ext] [AIFilter] userdata受信: @hoxpers posts=163511 joined=2010-02-10T13:47:01.000Z userId=113033468 articles=0
+[ext] [AIFilter] userdata受信: @tokotoko4000 posts=25368 joined=2021-11-10T13:15:24.000Z userId=1458422965700534273 articles=0
+[ext] [AIFilter] userdata受信: @meehousoukyoku posts=19 joined=2026-04-28T04:29:13.000Z userId=2048982428652601344 articles=0
+[ext] [AIFilter] userdata受信: @watch_unext posts=177214 joined=2011-03-03T09:26:40.000Z userId=260157526 articles=0
+[ext] [AIFilter] userdata受信: @watch_unext posts=177214 joined=2011-03-03T09:26:40.000Z userId=260157526 articles=0
+[ext] [AIFilter] userdata受信: @xoxocon_ posts=3061 joined=2021-04-09T14:08:29.000Z userId=1380522947736084482 articles=0
+[ext] [AIFilter] userdata受信: @baownx posts=573 joined=2026-03-16T21:52:01.000Z userId=2033662423123755008 articles=0
+[ext] [AIFilter] userdata受信: @christmas_pocha posts=82092 joined=2018-03-28T11:59:59.000Z userId=978964918257958912 articles=0
+[ext] [AIFilter] userdata受信: @yama69taro posts=40753 joined=2024-05-02T02:56:07.000Z userId=1785865729679704064 articles=0
+[ext] [AIFilter] userdata受信: @bisco_cp posts=1806 joined=2017-11-08T05:17:13.000Z userId=928129257749880833 articles=0
+[ext] [AIFilter] userdata受信: @bisco_cp posts=1806 joined=2017-11-08T05:17:13.000Z userId=928129257749880833 articles=0
+[ext] [AIFilter] userdata受信: @ailesblanches_ posts=20317 joined=2015-09-04T04:28:07.000Z userId=3444295579 articles=0
+[ext] [AIFilter] userdata受信: @homewarukotoba posts=920 joined=2022-10-17T14:06:28.000Z userId=1582010061739937792 articles=0
+[ext] [AIFilter] userdata受信: @galuppis posts=428 joined=2009-05-22T19:46:15.000Z userId=41885701 articles=0
+[ext] [AIFilter] userdata受信: @grok posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @flating2nd posts=58594 joined=2013-03-27T02:07:28.000Z userId=1306236878 articles=0
+[ext] [AIFilter] userdata受信: @spice_seed posts=25354 joined=2015-02-04T22:25:12.000Z userId=3009522769 articles=0
+[ext] [AIFilter] userdata受信: @spice_seed posts=25354 joined=2015-02-04T22:25:12.000Z userId=3009522769 articles=0
+[ext] [AIFilter] userdata受信: @gtanewsjp posts=181 joined=2020-12-11T01:05:33.000Z userId=1337201801582407680 articles=0
+[ext] [AIFilter] userdata受信: @gtavi_countdown posts=3404 joined=2022-02-06T18:29:53.000Z userId=1490392275062566916 articles=0
+[ext] [AIFilter] userdata受信: @miku_da11 posts=39 joined=2025-04-08T06:55:33.000Z userId=1909500314388197376 articles=0
+[ext] [AIFilter] userdata受信: @murinomiyu_jp posts=568 joined=2024-06-24T09:37:29.000Z userId=1805173276022616064 articles=0
+[ext] [AIFilter] userdata受信: @gtavi_countdown posts=3404 joined=2022-02-06T18:29:53.000Z userId=1490392275062566916 articles=0
+[ext] [AIFilter] userdata受信: @catnose99 posts=8611 joined=2013-11-19T04:47:38.000Z userId=2202495276 articles=0
+[ext] [AIFilter] userdata受信: @kanakawa12 posts=157841 joined=2012-01-02T08:51:10.000Z userId=452832633 articles=0
+[ext] [AIFilter] userdata受信: @hitomazkorede posts=10338 joined=2024-09-11T07:41:26.000Z userId=1833772790127955968 articles=0
+[ext] [AIFilter] userdata受信: @abema posts=2464953 joined=2015-06-25T08:33:53.000Z userId=3255473401 articles=0
+[ext] [AIFilter] userdata受信: @abema posts=2464953 joined=2015-06-25T08:33:53.000Z userId=3255473401 articles=0
+[ext] [AIFilter] userdata受信: @epichan77 posts=18100 joined=2016-06-04T12:26:46.000Z userId=739070891909255168 articles=0
+[ext] [AIFilter] userdata受信: @odgr posts=86721 joined=2009-10-24T17:04:22.000Z userId=84892641 articles=0
+[ext] [AIFilter] content.js loaded v3-core https://x.com/home
+[ext] [AIFilter] 関数定義完了 → SPA observer設定中
+[ext] [AIFilter] IIFE開始
+[ext] [AIFilter] startObserver完了
+[ext] [AIFilter] init完了 → setTimeout登録
+[ext] [AIFilter] sessionStorageからbearer復元
+[ext] [AIFilter] loadStorage完了 enabled=true threshold=30
+[ext] [AIFilter] loadStorage完了 → 再スキャン
+[ext] [AIFilter] IndexedDB: 64件ロード, 0件期限切れ削除
+[ext] [AIFilter] userdata受信: @sabotenten2929 posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @odgr posts=86721 joined=2009-10-24T17:04:22.000Z userId=84892641 articles=0
+[ext] [AIFilter] userdata受信: @onigiri2509 posts=480 joined=2025-10-01T17:27:47.000Z userId=1973439644563046400 articles=0
+[ext] [AIFilter] userdata受信: @mizumarup posts=4417 joined=2018-10-20T12:10:55.000Z userId=1053619569363869696 articles=0
+[ext] [AIFilter] userdata受信: @mizumarup posts=4417 joined=2018-10-20T12:10:55.000Z userId=1053619569363869696 articles=0
+[ext] [AIFilter] userdata受信: @mikatahihanch posts=3181 joined=2024-10-26T11:48:13.000Z userId=1850142309821886464 articles=0
+[ext] [AIFilter] userdata受信: @tus_ma__ posts=1074 joined=2026-04-05T12:41:53.000Z userId=2040771859247996928 articles=0
+[ext] [AIFilter] userdata受信: @_mumei_r posts=4606 joined=2020-09-14T13:12:54.000Z userId=1305494646189993984 articles=0
+[ext] [AIFilter] userdata受信: @goingsteady___ posts=4192 joined=2020-07-27T15:53:56.000Z userId=1287778218494181377 articles=0
+[ext] [AIFilter] userdata受信: @wakigababy posts=7821 joined=2022-08-14T13:39:57.000Z userId=1558810609973891077 articles=0
+[ext] [AIFilter] userdata受信: @postsofkittens posts=15946 joined=2017-08-31T10:09:40.000Z userId=903198090147926016 articles=0
+[ext] [AIFilter] userdata受信: @romi_hoshino posts=20284 joined=2022-03-05T15:18:11.000Z userId=1500128450186985472 articles=0
+[ext] [AIFilter] userdata受信: @madaomoshiroi posts=6664 joined=2021-12-21T05:42:16.000Z userId=1473166885516906496 articles=0
+[ext] [AIFilter] userdata受信: @mamlmu45451 posts=7882 joined=2016-03-21T12:00:19.000Z userId=711885142864715776 articles=0
+[ext] [AIFilter] userdata受信: @mamlmu45451 posts=7882 joined=2016-03-21T12:00:19.000Z userId=711885142864715776 articles=0
+[ext] [AIFilter] userdata受信: @furyu_hm posts=5332 joined=2017-07-12T09:08:22.000Z userId=885063271669272577 articles=0
+[ext] [AIFilter] userdata受信: @furyu_hm posts=5332 joined=2017-07-12T09:08:22.000Z userId=885063271669272577 articles=0
+[ext] [AIFilter] userdata受信: @rine_yaguruma posts=11150 joined=2018-09-22T16:51:36.000Z userId=1043543347430797312 articles=0
+[ext] [AIFilter] userdata受信: @teriteritoushi posts=149330 joined=2019-12-12T09:22:25.000Z userId=1205055166161932288 articles=0
+[ext] [AIFilter] userdata受信: @kinokino35 posts=11451 joined=2022-08-03T00:02:54.000Z userId=1554618742994358273 articles=0
+[ext] [AIFilter] userdata受信: @nagisakamen posts=13616 joined=2021-02-07T10:43:38.000Z userId=1358365750306566146 articles=0
+[ext] [AIFilter] userdata受信: @taito_kuji posts=379 joined=2025-06-18T05:25:28.000Z userId=1935206950813450242 articles=0
+[ext] [AIFilter] userdata受信: @taito_kuji posts=379 joined=2025-06-18T05:25:28.000Z userId=1935206950813450242 articles=0
+[ext] [AIFilter] userdata受信: @ruru_coo_ posts=228 joined=2024-05-31T15:06:41.000Z userId=1796558873245216768 articles=0
+[ext] [AIFilter] userdata受信: @pandapantade posts=27740 joined=2017-02-19T18:05:43.000Z userId=833377036911665161 articles=0
+[ext] [AIFilter] userdata受信: @hoxpers posts=163511 joined=2010-02-10T13:47:01.000Z userId=113033468 articles=0
+[ext] [AIFilter] userdata受信: @tokotoko4000 posts=25368 joined=2021-11-10T13:15:24.000Z userId=1458422965700534273 articles=0
+[ext] [AIFilter] userdata受信: @meehousoukyoku posts=19 joined=2026-04-28T04:29:13.000Z userId=2048982428652601344 articles=0
+[ext] [AIFilter] userdata受信: @yama69taro posts=40754 joined=2024-05-02T02:56:07.000Z userId=1785865729679704064 articles=0
+[ext] [AIFilter] userdata受信: @konomanga_jp posts=19248 joined=2010-10-13T00:41:20.000Z userId=201960166 articles=0
+[ext] [AIFilter] userdata受信: @konomanga_jp posts=19248 joined=2010-10-13T00:41:20.000Z userId=201960166 articles=0
+[ext] [AIFilter] userdata受信: @xoxocon_ posts=3061 joined=2021-04-09T14:08:29.000Z userId=1380522947736084482 articles=0
+[ext] [AIFilter] userdata受信: @baownx posts=573 joined=2026-03-16T21:52:01.000Z userId=2033662423123755008 articles=0
+[ext] [AIFilter] userdata受信: @christmas_pocha posts=82092 joined=2018-03-28T11:59:59.000Z userId=978964918257958912 articles=0
+[ext] [AIFilter] userdata受信: @chacott_cosme posts=2433 joined=2020-08-04T00:06:10.000Z userId=1290438746018545665 articles=0
+[ext] [AIFilter] userdata受信: @chacott_cosme posts=2433 joined=2020-08-04T00:06:10.000Z userId=1290438746018545665 articles=0
+[ext] [AIFilter] userdata受信: @ailesblanches_ posts=20317 joined=2015-09-04T04:28:07.000Z userId=3444295579 articles=0
+[ext] [AIFilter] userdata受信: @homewarukotoba posts=920 joined=2022-10-17T14:06:28.000Z userId=1582010061739937792 articles=0
+[ext] [AIFilter] userdata受信: @galuppis posts=428 joined=2009-05-22T19:46:15.000Z userId=41885701 articles=0
+[ext] [AIFilter] userdata受信: @grok posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @flating2nd posts=58594 joined=2013-03-27T02:07:28.000Z userId=1306236878 articles=0
+[ext] [AIFilter] userdata受信: @dreamweavingjp posts=60 joined=2026-04-13T08:16:41.000Z userId=2043603840524496896 articles=0
+[ext] [AIFilter] userdata受信: @dreamweavingjp posts=60 joined=2026-04-13T08:16:41.000Z userId=2043603840524496896 articles=0
+[ext] [AIFilter] userdata受信: @murinomiyu_jp posts=568 joined=2024-06-24T09:37:29.000Z userId=1805173276022616064 articles=0
+[ext] [AIFilter] userdata受信: @catnose99 posts=8611 joined=2013-11-19T04:47:38.000Z userId=2202495276 articles=0
+[ext] [AIFilter] userdata受信: @miku_da11 posts=39 joined=2025-04-08T06:55:33.000Z userId=1909500314388197376 articles=0
+[ext] [AIFilter] userdata受信: @gtanewsjp posts=181 joined=2020-12-11T01:05:33.000Z userId=1337201801582407680 articles=0
+[ext] [AIFilter] userdata受信: @gtavi_countdown posts=3404 joined=2022-02-06T18:29:53.000Z userId=1490392275062566916 articles=0
+[ext] [AIFilter] userdata受信: @gtavi_countdown posts=3404 joined=2022-02-06T18:29:53.000Z userId=1490392275062566916 articles=0
+[ext] [AIFilter] userdata受信: @kanakawa12 posts=157841 joined=2012-01-02T08:51:10.000Z userId=452832633 articles=0
+[ext] [AIFilter] userdata受信: @hitomazkorede posts=10338 joined=2024-09-11T07:41:26.000Z userId=1833772790127955968 articles=0
+[ext] [AIFilter] userdata受信: @tohocinemas_m posts=6643 joined=2012-02-07T04:54:19.000Z userId=485398555 articles=0
+[ext] [AIFilter] userdata受信: @tohocinemas_m posts=6643 joined=2012-02-07T04:54:19.000Z userId=485398555 articles=0
+[ext] [AIFilter] userdata受信: @epichan77 posts=18100 joined=2016-06-04T12:26:46.000Z userId=739070891909255168 articles=0
+[ext] [AIFilter] userdata受信: @mekparkofficial posts=5 joined=2026-03-09T03:24:55.000Z userId=2030846900082290688 articles=0
+[ext] [AIFilter] userdata受信: @citadeldev posts=71626 joined=2020-07-26T16:45:12.000Z userId=1287428702716850176 articles=0
+[ext] [AIFilter] userdata受信: @nabicochan posts=982 joined=2026-03-23T03:19:44.000Z userId=2035919289166041088 articles=0
+[ext] [AIFilter] processAllReplies: 1件
+[ext] [AIFilter] fetchProfile pending(auth未取得): @onigiri2509 bearer=true url=false
+[ext] [AIFilter] @onigiri2509 posts/day=2.2 (total=480, age=220days)
+[ext] [AIFilter] userdata受信: @onigiri2509 posts=480 joined=2025-10-01T17:27:47.000Z userId=1973439644563046400 articles=1
+[ext] [AIFilter] @onigiri2509 posts/day=2.2 (total=480, age=220days)
+[ext] [AIFilter] userdata受信: @cilia_glory posts=36222 joined=2010-06-26T11:05:41.000Z userId=159801924 articles=0
+[ext] [AIFilter] userdata受信: @achu10273 posts=15956 joined=2020-06-03T09:30:24.000Z userId=1268112747700473859 articles=0
+[ext] [AIFilter] userdata受信: @keikesu753 posts=65485 joined=2012-06-10T08:11:34.000Z userId=604318154 articles=0
+[ext] [AIFilter] userdata受信: @yamataroes posts=1440 joined=2022-06-02T11:09:29.000Z userId=1532318369327616000 articles=0
+[ext] [AIFilter] processAllReplies: 5件
+[ext] [AIFilter] @onigiri2509 posts/day=2.2 (total=480, age=220days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @achu10273 bearer=true url=false
+[ext] [AIFilter] fetchProfile pending(auth未取得): @cilia_glory bearer=true url=false
+[ext] [AIFilter] @cilia_glory posts/day=6.2 (total=36222, age=5796days)
+[ext] [AIFilter] @achu10273 posts/day=7.4 (total=15956, age=2166days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @yamataroes bearer=true url=false
+[ext] [AIFilter] @yamataroes posts/day=1.0 (total=1440, age=1437days)
+[ext] [AIFilter] processAllReplies: 5件
+[ext] [AIFilter] @onigiri2509 posts/day=2.2 (total=480, age=220days)
+[ext] [AIFilter] @cilia_glory posts/day=6.2 (total=36222, age=5796days)
+[ext] [AIFilter] @achu10273 posts/day=7.4 (total=15956, age=2166days)
+[ext] [AIFilter] @yamataroes posts/day=1.0 (total=1440, age=1437days)
+[ext] [AIFilter] processAllReplies: 5件
+[ext] [AIFilter] @onigiri2509 posts/day=2.2 (total=480, age=220days)
+[ext] [AIFilter] @cilia_glory posts/day=6.2 (total=36222, age=5796days)
+[ext] [AIFilter] @yamataroes posts/day=1.0 (total=1440, age=1437days)
+[ext] [AIFilter] @achu10273 posts/day=7.4 (total=15956, age=2166days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @keikesu753 bearer=true url=false
+[ext] [AIFilter] @keikesu753 posts/day=12.9 (total=65485, age=5081days)
+[ext] [AIFilter] processAllReplies: 3件
+[ext] [AIFilter] @onigiri2509 posts/day=2.2 (total=480, age=220days)
+[ext] [AIFilter] @cilia_glory posts/day=6.2 (total=36222, age=5796days)
+[ext] [AIFilter] @achu10273 posts/day=7.4 (total=15956, age=2166days)
+[ext] [AIFilter] processAllReplies: 5件
+[ext] [AIFilter] @onigiri2509 posts/day=2.2 (total=480, age=220days)
+[ext] [AIFilter] @cilia_glory posts/day=6.2 (total=36222, age=5796days)
+[ext] [AIFilter] @achu10273 posts/day=7.4 (total=15956, age=2166days)
+[ext] [AIFilter] @yamataroes posts/day=1.0 (total=1440, age=1437days)
+[ext] [AIFilter] processAllReplies: 4件
+[ext] [AIFilter] @cilia_glory posts/day=6.2 (total=36222, age=5796days)
+[ext] [AIFilter] @achu10273 posts/day=7.4 (total=15956, age=2166days)
+[ext] [AIFilter] @keikesu753 posts/day=12.9 (total=65485, age=5081days)
+[ext] [AIFilter] @yamataroes posts/day=1.0 (total=1440, age=1437days)
+[ext] [AIFilter] processAllReplies: 3件
+[ext] [AIFilter] @onigiri2509 posts/day=2.2 (total=480, age=220days)
+[ext] [AIFilter] @cilia_glory posts/day=6.2 (total=36222, age=5796days)
+[ext] [AIFilter] @achu10273 posts/day=7.4 (total=15956, age=2166days)
+[ext] [AIFilter] processAllReplies: 4件
+[ext] [AIFilter] @onigiri2509 posts/day=2.2 (total=480, age=220days)
+[ext] [AIFilter] @cilia_glory posts/day=6.2 (total=36222, age=5796days)
+[ext] [AIFilter] @achu10273 posts/day=7.4 (total=15956, age=2166days)
+[ext] [AIFilter] content.js loaded v3-core https://x.com/onigiri2509/status/2052790093598073221
+[ext] [AIFilter] IIFE開始
+[ext] [AIFilter] 関数定義完了 → SPA observer設定中
+[ext] [AIFilter] startObserver完了
+[ext] [AIFilter] init完了 → setTimeout登録
+[ext] [AIFilter] loadStorage完了 enabled=true threshold=30
+[ext] [AIFilter] loadStorage完了 → 再スキャン
+[ext] [AIFilter] IndexedDB: 114件ロード, 0件期限切れ削除
+[ext] [AIFilter] sessionStorageからbearer復元
+[ext] [AIFilter] userdata受信: @sabotenten2929 posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @onigiri2509 posts=480 joined=2025-10-01T17:27:47.000Z userId=1973439644563046400 articles=0
+[ext] [AIFilter] userdata受信: @onigiri2509 posts=480 joined=2025-10-01T17:27:47.000Z userId=1973439644563046400 articles=0
+[ext] [AIFilter] userdata受信: @wawon_wwn posts=993 joined=2018-10-12T15:18:28.000Z userId=1050767666854555648 articles=0
+[ext] [AIFilter] userdata受信: @achu10273 posts=15956 joined=2020-06-03T09:30:24.000Z userId=1268112747700473859 articles=0
+[ext] [AIFilter] userdata受信: @yuika_siina posts=22385 joined=2018-07-27T14:02:03.000Z userId=1022844567735824384 articles=0
+[ext] [AIFilter] userdata受信: @keikesu753 posts=65489 joined=2012-06-10T08:11:34.000Z userId=604318154 articles=0
+[ext] [AIFilter] processAllReplies: 1件
+[ext] [AIFilter] fetchProfile pending(auth未取得): @onigiri2509 bearer=true url=false
+[ext] [AIFilter] @onigiri2509 posts/day=2.2 (total=480, age=220days)
+[ext] [AIFilter] processAllReplies: 2件
+[ext] [AIFilter] @onigiri2509 posts/day=2.2 (total=480, age=220days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @wawon_wwn bearer=true url=false
+[ext] [AIFilter] @wawon_wwn posts/day=0.4 (total=993, age=2766days)
+[ext] [AIFilter] processAllReplies: 5件
+[ext] [AIFilter] @onigiri2509 posts/day=2.2 (total=480, age=220days)
+[ext] [AIFilter] @wawon_wwn posts/day=0.4 (total=993, age=2766days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @achu10273 bearer=true url=false
+[ext] [AIFilter] @yuika_siina posts/day=7.9 (total=22385, age=2843days)
+[ext] [AIFilter] @achu10273 posts/day=7.4 (total=15956, age=2166days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @yuika_siina bearer=true url=false
+[ext] [AIFilter] processAllReplies: 5件
+[ext] [AIFilter] @achu10273 posts/day=7.4 (total=15956, age=2166days)
+[ext] [AIFilter] @wawon_wwn posts/day=0.4 (total=993, age=2766days)
+[ext] [AIFilter] @onigiri2509 posts/day=2.2 (total=480, age=220days)
+[ext] [AIFilter] @keikesu753 posts/day=12.9 (total=65489, age=5081days)
+[ext] [AIFilter] @yuika_siina posts/day=7.9 (total=22385, age=2843days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @keikesu753 bearer=true url=false
+[ext] [AIFilter] content.js loaded v3-core https://x.com/theutiic/status/2050350520641155467
+[ext] [AIFilter] IIFE開始
+[ext] [AIFilter] 関数定義完了 → SPA observer設定中
+[ext] [AIFilter] init完了 → setTimeout登録
+[ext] [AIFilter] loadStorage完了 enabled=true threshold=30
+[ext] [AIFilter] startObserver完了
+[ext] [AIFilter] loadStorage完了 → 再スキャン
+[ext] [AIFilter] sessionStorageからbearer復元
+[ext] [AIFilter] IndexedDB: 116件ロード, 0件期限切れ削除
+[ext] [AIFilter] userdata受信: @sabotenten2929 posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @theutiic posts=84 joined=2026-01-06T12:23:18.000Z userId=2008514659574517760 articles=0
+[ext] [AIFilter] userdata受信: @theutiic posts=84 joined=2026-01-06T12:23:18.000Z userId=2008514659574517760 articles=0
+[ext] [AIFilter] userdata受信: @dewirahmat_ posts=268838 joined=2017-02-28T22:08:10.000Z userId=836699539352375296 articles=0
+[ext] [AIFilter] userdata受信: @contextpinit posts=44640 joined=2016-03-18T11:04:21.000Z userId=710783895172730880 articles=0
+[ext] [AIFilter] userdata受信: @icannn___ posts=454325 joined=2020-07-17T06:52:34.000Z userId=1284018026010996736 articles=0
+[ext] [AIFilter] userdata受信: @delivpr posts=38515 joined=2015-02-04T07:26:13.000Z userId=3016686094 articles=0
+[ext] [AIFilter] userdata受信: @kwetlaw posts=53126 joined=2021-02-27T14:23:16.000Z userId=1365668739094515712 articles=0
+[ext] [AIFilter] userdata受信: @kenzezt posts=305289 joined=2011-10-17T07:21:23.000Z userId=392564232 articles=0
+[ext] [AIFilter] userdata受信: @varreldept posts=185271 joined=2025-08-02T22:37:54.000Z userId=1951774371405803520 articles=0
+[ext] [AIFilter] userdata受信: @fasha_ntn posts=74877 joined=2025-03-25T04:08:05.000Z userId=1904384690884366336 articles=0
+[ext] [AIFilter] userdata受信: @pranatadayken posts=563132 joined=2021-03-18T19:04:02.000Z userId=1372624679626629120 articles=0
+[ext] [AIFilter] userdata受信: @pranatadayken posts=563132 joined=2021-03-18T19:04:02.000Z userId=1372624679626629120 articles=0
+[ext] [AIFilter] userdata受信: @showrcut posts=104001 joined=2025-08-07T01:26:33.000Z userId=1953266350903984128 articles=0
+[ext] [AIFilter] userdata受信: @claritasilvi posts=119627 joined=2015-04-27T00:59:42.000Z userId=3177229148 articles=0
+[ext] [AIFilter] userdata受信: @tokov22103 posts=62382 joined=2026-01-29T07:43:08.000Z userId=2016779068373684226 articles=0
+[ext] [AIFilter] userdata受信: @mxeasly posts=17814 joined=2022-03-13T17:34:27.000Z userId=1503061880998285312 articles=0
+[ext] [AIFilter] userdata受信: @lcews posts=21154 joined=2009-02-16T01:45:10.000Z userId=20954163 articles=0
+[ext] [AIFilter] userdata受信: @chaayako posts=300426 joined=2019-05-04T04:52:26.000Z userId=1124537245061369857 articles=0
+[ext] [AIFilter] userdata受信: @mutiaranov297 posts=37329 joined=2025-11-28T23:52:55.000Z userId=1994555082294398977 articles=0
+[ext] [AIFilter] userdata受信: @sasyaanan990 posts=43148 joined=2026-01-22T10:26:06.000Z userId=2014283398131720192 articles=0
+[ext] [AIFilter] userdata受信: @butt3rcupg1rl posts=16265 joined=2024-11-19T04:27:32.000Z userId=1858728702323957761 articles=0
+[ext] [AIFilter] userdata受信: @tiaraanisay posts=8925 joined=2026-02-15T10:19:36.000Z userId=2022979041306046464 articles=0
+[ext] [AIFilter] userdata受信: @pumhpkins posts=9863 joined=2026-01-06T00:56:52.000Z userId=2008341935766073345 articles=0
+[ext] [AIFilter] userdata受信: @allwaystaynew posts=114750 joined=2020-06-19T04:18:14.000Z userId=1273832363915501568 articles=0
+[ext] [AIFilter] userdata受信: @masxyzz18 posts=38406 joined=2025-12-22T07:09:20.000Z userId=2002999835281276928 articles=0
+[ext] [AIFilter] userdata受信: @npzzls posts=29356 joined=2026-01-12T08:49:34.000Z userId=2010635223135068160 articles=0
+[ext] [AIFilter] userdata受信: @xiaobua_ posts=59845 joined=2025-08-07T08:22:05.000Z userId=1953370775081369601 articles=0
+[ext] [AIFilter] userdata受信: @milkyygirlls posts=11081 joined=2026-04-07T07:52:43.000Z userId=2041423880896548864 articles=0
+[ext] [AIFilter] userdata受信: @trudisjuin posts=26207 joined=2012-02-02T23:51:41.000Z userId=481604695 articles=0
+[ext] [AIFilter] userdata受信: @cuanntiq posts=19083 joined=2026-01-04T15:20:05.000Z userId=2007834306941718528 articles=0
+[ext] [AIFilter] userdata受信: @jeonguqi posts=39928 joined=2020-12-13T15:27:59.000Z userId=1338143558419636225 articles=0
+[ext] [AIFilter] userdata受信: @fiuryhammer posts=20046 joined=2026-04-05T18:21:34.000Z userId=2040857337183768576 articles=0
+[ext] [AIFilter] userdata受信: @mylukii posts=53858 joined=2025-03-24T09:58:02.000Z userId=1904110340331479040 articles=0
+[ext] [AIFilter] userdata受信: @tinggi3447046 posts=24185 joined=2026-02-10T14:25:42.000Z userId=2021229020826959875 articles=0
+[ext] [AIFilter] userdata受信: @sinetuin_ posts=9540 joined=2026-03-15T05:05:42.000Z userId=2033046887490793473 articles=0
+[ext] [AIFilter] userdata受信: @shixniy posts=60491 joined=2026-02-05T01:35:37.000Z userId=2019223323180400640 articles=0
+[ext] [AIFilter] userdata受信: @xdagelan posts=47605 joined=2025-08-19T17:32:09.000Z userId=1957858079560835072 articles=0
+[ext] [AIFilter] userdata受信: @szkissme posts=7379 joined=2025-12-27T17:09:47.000Z userId=2004962885177581568 articles=0
+[ext] [AIFilter] processAllReplies: 1件
+[ext] [AIFilter] fetchProfile pending(auth未取得): @theutiic bearer=true url=false
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] processAllReplies: 2件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @dewirahmat_ bearer=true url=false
+[ext] [AIFilter] @dewirahmat_ posts/day=80.1 (total=268838, age=3357days)
+[ext] [AIFilter] HIT @dewirahmat_ total=30 (text=8 beh=0 prof=35) thr=30
+[ext] [AIFilter] processAllReplies: 2件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] processAllReplies: 7件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @icannn___ bearer=true url=false
+[ext] [AIFilter] @icannn___ posts/day=214.1 (total=454325, age=2122days)
+[ext] [AIFilter] HIT @icannn___ total=48 (text=0 beh=0 prof=70) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @delivpr bearer=true url=false
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @kwetlaw bearer=true url=false
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @kenzezt bearer=true url=false
+[ext] [AIFilter] @kenzezt posts/day=57.4 (total=305289, age=5318days)
+[ext] [AIFilter] processAllReplies: 10件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @kenzezt posts/day=57.4 (total=305289, age=5318days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @varreldept bearer=true url=false
+[ext] [AIFilter] HIT @varreldept total=58 (text=8 beh=0 prof=70) thr=30
+[ext] [AIFilter] @varreldept posts/day=662.9 (total=185271, age=279days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @fasha_ntn bearer=true url=false
+[ext] [AIFilter] @fasha_ntn posts/day=182.5 (total=74877, age=410days)
+[ext] [AIFilter] HIT @fasha_ntn total=44 (text=0 beh=0 prof=55) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @pranatadayken bearer=true url=false
+[ext] [AIFilter] @pranatadayken posts/day=299.9 (total=563132, age=1878days)
+[ext] [AIFilter] HIT @pranatadayken total=53 (text=8 beh=0 prof=70) thr=30
+[ext] [AIFilter] processAllReplies: 10件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @kenzezt posts/day=57.4 (total=305289, age=5318days)
+[ext] [AIFilter] processAllReplies: 13件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] HIT @pranatadayken total=59 (text=8 beh=54 prof=70) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @showrcut bearer=true url=false
+[ext] [AIFilter] @showrcut posts/day=377.7 (total=104001, age=275days)
+[ext] [AIFilter] @kenzezt posts/day=57.4 (total=305289, age=5318days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @claritasilvi bearer=true url=false
+[ext] [AIFilter] HIT @showrcut total=48 (text=0 beh=0 prof=70) thr=30
+[ext] [AIFilter] @pranatadayken posts/day=299.9 (total=563132, age=1878days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] processAllReplies: 15件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @kenzezt posts/day=57.4 (total=305289, age=5318days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @tokov22103 bearer=true url=false
+[ext] [AIFilter] @tokov22103 posts/day=623.1 (total=62382, age=100days)
+[ext] [AIFilter] HIT @tokov22103 total=46 (text=0 beh=0 prof=75) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @mxeasly bearer=true url=false
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] processAllReplies: 15件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @kenzezt posts/day=57.4 (total=305289, age=5318days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] processAllReplies: 16件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @kenzezt posts/day=57.4 (total=305289, age=5318days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @lcews bearer=true url=false
+[ext] [AIFilter] @lcews posts/day=3.4 (total=21154, age=6291days)
+[ext] [AIFilter] processAllReplies: 17件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @kenzezt posts/day=57.4 (total=305289, age=5318days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @lcews posts/day=3.4 (total=21154, age=6291days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @chaayako bearer=true url=false
+[ext] [AIFilter] @chaayako posts/day=117.3 (total=300426, age=2562days)
+[ext] [AIFilter] HIT @chaayako total=50 (text=8 beh=0 prof=55) thr=30
+[ext] [AIFilter] processAllReplies: 18件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @kenzezt posts/day=57.4 (total=305289, age=5318days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @lcews posts/day=3.4 (total=21154, age=6291days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @mutiaranov297 bearer=true url=false
+[ext] [AIFilter] @mutiaranov297 posts/day=231.2 (total=37329, age=161days)
+[ext] [AIFilter] HIT @mutiaranov297 total=51 (text=0 beh=0 prof=75) thr=30
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] processAllReplies: 18件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @kenzezt posts/day=57.4 (total=305289, age=5318days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @lcews posts/day=3.4 (total=21154, age=6291days)
+[ext] [AIFilter] processAllReplies: 22件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @kenzezt posts/day=57.4 (total=305289, age=5318days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @sasyaanan990 posts/day=403.2 (total=43148, age=107days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @lcews posts/day=3.4 (total=21154, age=6291days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @sasyaanan990 bearer=true url=false
+[ext] [AIFilter] @butt3rcupg1rl posts/day=30.3 (total=16265, age=536days)
+[ext] [AIFilter] HIT @sasyaanan990 total=53 (text=8 beh=0 prof=75) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @butt3rcupg1rl bearer=true url=false
+[ext] [AIFilter] fetchProfile pending(auth未取得): @tiaraanisay bearer=true url=false
+[ext] [AIFilter] @tiaraanisay posts/day=107.5 (total=8925, age=83days)
+[ext] [AIFilter] HIT @tiaraanisay total=55 (text=8 beh=0 prof=70) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @pumhpkins bearer=true url=false
+[ext] [AIFilter] @pumhpkins posts/day=79.9 (total=9863, age=123days)
+[ext] [AIFilter] HIT @pumhpkins total=30 (text=8 beh=0 prof=40) thr=30
+[ext] [AIFilter] processAllReplies: 25件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @kenzezt posts/day=57.4 (total=305289, age=5318days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @allwaystaynew bearer=true url=false
+[ext] [AIFilter] @allwaystaynew posts/day=53.4 (total=114750, age=2150days)
+[ext] [AIFilter] HIT @allwaystaynew total=31 (text=0 beh=0 prof=35) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @masxyzz18 bearer=true url=false
+[ext] [AIFilter] @lcews posts/day=3.4 (total=21154, age=6291days)
+[ext] [AIFilter] @butt3rcupg1rl posts/day=30.3 (total=16265, age=536days)
+[ext] [AIFilter] @masxyzz18 posts/day=278.0 (total=38406, age=138days)
+[ext] [AIFilter] HIT @masxyzz18 total=56 (text=8 beh=0 prof=75) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @npzzls bearer=true url=false
+[ext] [AIFilter] @npzzls posts/day=250.8 (total=29356, age=117days)
+[ext] [AIFilter] HIT @npzzls total=48 (text=0 beh=0 prof=75) thr=30
+[ext] [AIFilter] processAllReplies: 27件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @kenzezt posts/day=57.4 (total=305289, age=5318days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @lcews posts/day=3.4 (total=21154, age=6291days)
+[ext] [AIFilter] @butt3rcupg1rl posts/day=30.3 (total=16265, age=536days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @xiaobua_ bearer=true url=false
+[ext] [AIFilter] @xiaobua_ posts/day=217.5 (total=59845, age=275days)
+[ext] [AIFilter] HIT @xiaobua_ total=45 (text=0 beh=0 prof=70) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @milkyygirlls bearer=true url=false
+[ext] [AIFilter] @milkyygirlls posts/day=345.1 (total=11081, age=32days)
+[ext] [AIFilter] HIT @milkyygirlls total=65 (text=16 beh=0 prof=85) thr=30
+[ext] [AIFilter] processAllReplies: 29件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @kenzezt posts/day=57.4 (total=305289, age=5318days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @lcews posts/day=3.4 (total=21154, age=6291days)
+[ext] [AIFilter] @butt3rcupg1rl posts/day=30.3 (total=16265, age=536days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @trudisjuin bearer=true url=false
+[ext] [AIFilter] @trudisjuin posts/day=5.0 (total=26207, age=5209days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @cuanntiq bearer=true url=false
+[ext] [AIFilter] @cuanntiq posts/day=152.9 (total=19083, age=125days)
+[ext] [AIFilter] HIT @cuanntiq total=42 (text=8 beh=0 prof=60) thr=30
+[ext] [AIFilter] processAllReplies: 30件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @kenzezt posts/day=57.4 (total=305289, age=5318days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @butt3rcupg1rl posts/day=30.3 (total=16265, age=536days)
+[ext] [AIFilter] @trudisjuin posts/day=5.0 (total=26207, age=5209days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @jeonguqi bearer=true url=false
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @lcews posts/day=3.4 (total=21154, age=6291days)
+[ext] [AIFilter] processAllReplies: 31件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @kenzezt posts/day=57.4 (total=305289, age=5318days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @lcews posts/day=3.4 (total=21154, age=6291days)
+[ext] [AIFilter] @butt3rcupg1rl posts/day=30.3 (total=16265, age=536days)
+[ext] [AIFilter] @trudisjuin posts/day=5.0 (total=26207, age=5209days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @fiuryhammer posts/day=595.3 (total=20046, age=34days)
+[ext] [AIFilter] HIT @fiuryhammer total=71 (text=15 beh=0 prof=85) thr=30
+[ext] [AIFilter] processAllReplies: 31件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @fiuryhammer bearer=true url=false
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @kenzezt posts/day=57.4 (total=305289, age=5318days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @lcews posts/day=3.4 (total=21154, age=6291days)
+[ext] [AIFilter] @butt3rcupg1rl posts/day=30.3 (total=16265, age=536days)
+[ext] [AIFilter] @trudisjuin posts/day=5.0 (total=26207, age=5209days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] blockUser 試行: userId=836699539352375296 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=836699539352375296 status=200
+[ext] [AIFilter] blockUser 試行: userId=1284018026010996736 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1284018026010996736 status=200
+[ext] [AIFilter] blockUser 試行: userId=1951774371405803520 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1951774371405803520 status=200
+[ext] [AIFilter] blockUser 試行: userId=1904384690884366336 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1904384690884366336 status=200
+[ext] [AIFilter] blockUser 試行: userId=1372624679626629120 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1372624679626629120 status=200
+[ext] [AIFilter] blockUser 試行: userId=1953266350903984128 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1953266350903984128 status=200
+[ext] [AIFilter] blockUser 試行: userId=2016779068373684226 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2016779068373684226 status=200
+[ext] [AIFilter] blockUser 試行: userId=1124537245061369857 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1124537245061369857 status=200
+[ext] [AIFilter] blockUser 試行: userId=1994555082294398977 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1994555082294398977 status=200
+[ext] [AIFilter] blockUser 試行: userId=2014283398131720192 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2014283398131720192 status=200
+[ext] [AIFilter] blockUser 試行: userId=2022979041306046464 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2022979041306046464 status=200
+[ext] [AIFilter] blockUser 試行: userId=2008341935766073345 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2008341935766073345 status=200
+[ext] [AIFilter] blockUser 試行: userId=1273832363915501568 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1273832363915501568 status=200
+[ext] [AIFilter] blockUser 試行: userId=2002999835281276928 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2002999835281276928 status=200
+[ext] [AIFilter] blockUser 試行: userId=2010635223135068160 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2010635223135068160 status=200
+[ext] [AIFilter] blockUser 試行: userId=1953370775081369601 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1953370775081369601 status=200
+[ext] [AIFilter] blockUser 試行: userId=2041423880896548864 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2041423880896548864 status=200
+[ext] [AIFilter] blockUser 試行: userId=2007834306941718528 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2007834306941718528 status=200
+[ext] [AIFilter] blockUser 試行: userId=2040857337183768576 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2040857337183768576 status=200
+[ext] [AIFilter] blockAll完了: 19件ブロック成功, 0件スキップ (合計19件)
+[ext] [AIFilter] content.js loaded v3-core https://x.com/theutiic/status/2050350520641155467
+[ext] [AIFilter] IIFE開始
+[ext] [AIFilter] 関数定義完了 → SPA observer設定中
+[ext] [AIFilter] startObserver完了
+[ext] [AIFilter] init完了 → setTimeout登録
+[ext] [AIFilter] sessionStorageからbearer復元
+[ext] [AIFilter] loadStorage完了 enabled=true threshold=30
+[ext] [AIFilter] loadStorage完了 → 再スキャン
+[ext] [AIFilter] IndexedDB: 126件ロード, 0件期限切れ削除
+[ext] [AIFilter] userdata受信: @sabotenten2929 posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @theutiic posts=84 joined=2026-01-06T12:23:18.000Z userId=2008514659574517760 articles=0
+[ext] [AIFilter] userdata受信: @theutiic posts=84 joined=2026-01-06T12:23:18.000Z userId=2008514659574517760 articles=0
+[ext] [AIFilter] userdata受信: @contextpinit posts=44640 joined=2016-03-18T11:04:21.000Z userId=710783895172730880 articles=0
+[ext] [AIFilter] userdata受信: @kwetlaw posts=53126 joined=2021-02-27T14:23:16.000Z userId=1365668739094515712 articles=0
+[ext] [AIFilter] userdata受信: @delivpr posts=38515 joined=2015-02-04T07:26:13.000Z userId=3016686094 articles=0
+[ext] [AIFilter] userdata受信: @claritasilvi posts=119627 joined=2015-04-27T00:59:42.000Z userId=3177229148 articles=0
+[ext] [AIFilter] userdata受信: @jeonguqi posts=39928 joined=2020-12-13T15:27:59.000Z userId=1338143558419636225 articles=0
+[ext] [AIFilter] userdata受信: @mxeasly posts=17814 joined=2022-03-13T17:34:27.000Z userId=1503061880998285312 articles=0
+[ext] [AIFilter] userdata受信: @rakcdn posts=53750 joined=2024-12-25T09:54:08.000Z userId=1871856832089866240 articles=0
+[ext] [AIFilter] userdata受信: @tinnyeeup posts=28390 joined=2025-09-13T07:01:01.000Z userId=1966758958712188928 articles=0
+[ext] [AIFilter] userdata受信: @tukangsampahmu posts=138437 joined=2025-09-02T02:44:10.000Z userId=1962708049937997824 articles=0
+[ext] [AIFilter] userdata受信: @parapenjaga posts=69802 joined=2024-06-12T17:26:43.000Z userId=1800942236747825153 articles=0
+[ext] [AIFilter] userdata受信: @funfunkiw posts=56888 joined=2021-05-11T07:17:49.000Z userId=1392015978825801728 articles=0
+[ext] [AIFilter] userdata受信: @pliskevt posts=56693 joined=2025-09-27T02:46:17.000Z userId=1971768157590507520 articles=0
+[ext] [AIFilter] userdata受信: @paddble posts=26211 joined=2025-06-16T13:24:57.000Z userId=1934603035759808512 articles=0
+[ext] [AIFilter] userdata受信: @perusuhrepublik posts=128330 joined=2025-09-03T07:22:31.000Z userId=1963140498484592640 articles=0
+[ext] [AIFilter] userdata受信: @berrrlianmahal posts=143450 joined=2022-03-30T09:29:42.000Z userId=1509100482874150915 articles=0
+[ext] [AIFilter] userdata受信: @tulkiyjemm posts=93285 joined=2019-09-19T02:53:55.000Z userId=1174516823011688448 articles=0
+[ext] [AIFilter] userdata受信: @askiashee posts=17476 joined=2025-03-02T11:51:31.000Z userId=1896166037076508672 articles=0
+[ext] [AIFilter] userdata受信: @kyranovalie posts=158388 joined=2025-04-08T21:07:13.000Z userId=1909714566361358336 articles=0
+[ext] [AIFilter] userdata受信: @alesha1191 posts=20848 joined=2021-10-05T11:32:31.000Z userId=1445351101209870341 articles=0
+[ext] [AIFilter] userdata受信: @xkarinayy posts=40302 joined=2018-04-08T03:10:39.000Z userId=982817972669460485 articles=0
+[ext] [AIFilter] userdata受信: @noyawassalam posts=50772 joined=2021-05-26T20:38:41.000Z userId=1397653356579987457 articles=0
+[ext] [AIFilter] userdata受信: @jinmiranbby posts=24357 joined=2020-12-31T05:41:16.000Z userId=1344518926261133312 articles=0
+[ext] [AIFilter] userdata受信: @goldencue_ posts=37296 joined=2025-09-02T02:27:46.000Z userId=1962703924462559232 articles=0
+[ext] [AIFilter] userdata受信: @moonarchyv posts=85941 joined=2016-12-01T10:52:59.000Z userId=804277105059971073 articles=0
+[ext] [AIFilter] userdata受信: @vdclipsx posts=34906 joined=2021-08-10T08:57:36.000Z userId=1425018437235974158 articles=0
+[ext] [AIFilter] userdata受信: @coffeqoe posts=58356 joined=2017-04-02T09:44:23.000Z userId=848471161612550144 articles=0
+[ext] [AIFilter] userdata受信: @twcint posts=29649 joined=2015-07-31T20:25:36.000Z userId=3397619595 articles=0
+[ext] [AIFilter] userdata受信: @bukanakunparodi posts=29249 joined=2025-10-07T14:13:36.000Z userId=1975564979119267844 articles=0
+[ext] [AIFilter] userdata受信: @rinaamelia1111 posts=120862 joined=2025-01-17T17:08:48.000Z userId=1880301164438384643 articles=0
+[ext] [AIFilter] userdata受信: @dianalux5 posts=26913 joined=2022-09-19T21:35:03.000Z userId=1571976063693258753 articles=0
+[ext] [AIFilter] userdata受信: @folecura posts=23325 joined=2023-04-09T13:30:17.000Z userId=1645056485389467651 articles=0
+[ext] [AIFilter] userdata受信: @videokonten0504 posts=53273 joined=2026-01-18T02:13:36.000Z userId=2012709847066869760 articles=0
+[ext] [AIFilter] userdata受信: @rsevise posts=31608 joined=2017-05-02T11:13:50.000Z userId=859365308041187329 articles=0
+[ext] [AIFilter] userdata受信: @funnypieces_ posts=74018 joined=2025-08-12T06:46:29.000Z userId=1955158854569955329 articles=0
+[ext] [AIFilter] userdata受信: @kireluva posts=16571 joined=2024-05-25T00:42:05.000Z userId=1794166782539829248 articles=0
+[ext] [AIFilter] userdata受信: @violanav posts=22487 joined=2026-04-13T23:19:10.000Z userId=2043830990062399489 articles=0
+[ext] [AIFilter] processAllReplies: 1件
+[ext] [AIFilter] fetchProfile pending(auth未取得): @theutiic bearer=true url=false
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] processAllReplies: 2件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] processAllReplies: 7件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @kwetlaw bearer=true url=false
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @delivpr bearer=true url=false
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @claritasilvi bearer=true url=false
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @jeonguqi bearer=true url=false
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @mxeasly bearer=true url=false
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] processAllReplies: 10件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @rakcdn bearer=true url=false
+[ext] [AIFilter] @rakcdn posts/day=107.5 (total=53750, age=500days)
+[ext] [AIFilter] HIT @rakcdn total=44 (text=0 beh=0 prof=55) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @tinnyeeup bearer=true url=false
+[ext] [AIFilter] @tinnyeeup posts/day=119.2 (total=28390, age=238days)
+[ext] [AIFilter] HIT @tinnyeeup total=52 (text=0 beh=0 prof=55) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @tukangsampahmu bearer=true url=false
+[ext] [AIFilter] @tukangsampahmu posts/day=555.3 (total=138437, age=249days)
+[ext] [AIFilter] HIT @tukangsampahmu total=58 (text=8 beh=0 prof=70) thr=30
+[ext] [AIFilter] processAllReplies: 10件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] processAllReplies: 10件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] processAllReplies: 15件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @parapenjaga bearer=true url=false
+[ext] [AIFilter] @parapenjaga posts/day=100.3 (total=69802, age=696days)
+[ext] [AIFilter] HIT @parapenjaga total=43 (text=8 beh=0 prof=55) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @funfunkiw bearer=true url=false
+[ext] [AIFilter] @funfunkiw posts/day=31.2 (total=56888, age=1824days)
+[ext] [AIFilter] HIT @funfunkiw total=33 (text=32 beh=0 prof=15) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @pliskevt bearer=true url=false
+[ext] [AIFilter] @pliskevt posts/day=252.7 (total=56693, age=224days)
+[ext] [AIFilter] HIT @pliskevt total=53 (text=8 beh=0 prof=70) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @paddble bearer=true url=false
+[ext] [AIFilter] @paddble posts/day=80.2 (total=26211, age=327days)
+[ext] [AIFilter] HIT @paddble total=33 (text=8 beh=0 prof=35) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @perusuhrepublik bearer=true url=false
+[ext] [AIFilter] @perusuhrepublik posts/day=517.2 (total=128330, age=248days)
+[ext] [AIFilter] HIT @perusuhrepublik total=60 (text=12 beh=0 prof=70) thr=30
+[ext] [AIFilter] processAllReplies: 19件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @berrrlianmahal bearer=true url=false
+[ext] [AIFilter] @berrrlianmahal posts/day=95.6 (total=143450, age=1501days)
+[ext] [AIFilter] HIT @berrrlianmahal total=34 (text=0 beh=0 prof=35) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @tulkiyjemm bearer=true url=false
+[ext] [AIFilter] @tulkiyjemm posts/day=38.5 (total=93285, age=2424days)
+[ext] [AIFilter] HIT @tulkiyjemm total=31 (text=8 beh=0 prof=15) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @askiashee bearer=true url=false
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @kyranovalie bearer=true url=false
+[ext] [AIFilter] @kyranovalie posts/day=400.4 (total=158388, age=396days)
+[ext] [AIFilter] HIT @kyranovalie total=51 (text=0 beh=0 prof=70) thr=30
+[ext] [AIFilter] processAllReplies: 19件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] processAllReplies: 22件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @noyawassalam bearer=true url=false
+[ext] [AIFilter] @noyawassalam posts/day=28.1 (total=50772, age=1809days)
+[ext] [AIFilter] HIT @noyawassalam total=32 (text=0 beh=0 prof=15) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @vdclipsx bearer=true url=false
+[ext] [AIFilter] @vdclipsx posts/day=20.1 (total=34906, age=1733days)
+[ext] [AIFilter] HIT @vdclipsx total=33 (text=15 beh=0 prof=15) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @bukanakunparodi bearer=true url=false
+[ext] [AIFilter] @bukanakunparodi posts/day=136.8 (total=29249, age=214days)
+[ext] [AIFilter] HIT @bukanakunparodi total=51 (text=8 beh=0 prof=55) thr=30
+[ext] [AIFilter] processAllReplies: 22件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] processAllReplies: 22件
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @funnypieces_ bearer=true url=false
+[ext] [AIFilter] @funnypieces_ posts/day=274.0 (total=74018, age=270days)
+[ext] [AIFilter] HIT @funnypieces_ total=48 (text=0 beh=0 prof=70) thr=30
+[ext] [AIFilter] processAllReplies: 22件
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @alesha1191 bearer=true url=false
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] processAllReplies: 29件
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @xkarinayy bearer=true url=false
+[ext] [AIFilter] @jinmiranbby posts/day=12.5 (total=24357, age=1955days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @jinmiranbby bearer=true url=false
+[ext] [AIFilter] fetchProfile pending(auth未取得): @goldencue_ bearer=true url=false
+[ext] [AIFilter] HIT @goldencue_ total=43 (text=8 beh=0 prof=55) thr=30
+[ext] [AIFilter] @goldencue_ posts/day=149.6 (total=37296, age=249days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @moonarchyv bearer=true url=false
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @coffeqoe bearer=true url=false
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] processAllReplies: 29件
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @jinmiranbby posts/day=12.5 (total=24357, age=1955days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] processAllReplies: 32件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @jinmiranbby posts/day=12.5 (total=24357, age=1955days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @rsevise bearer=true url=false
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] processAllReplies: 34件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @jinmiranbby posts/day=12.5 (total=24357, age=1955days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @rinaamelia1111 bearer=true url=false
+[ext] [AIFilter] @rinaamelia1111 posts/day=253.5 (total=120862, age=477days)
+[ext] [AIFilter] HIT @rinaamelia1111 total=53 (text=8 beh=0 prof=70) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @dianalux5 bearer=true url=false
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] processAllReplies: 35件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @jinmiranbby posts/day=12.5 (total=24357, age=1955days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @folecura bearer=true url=false
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] blockUser 試行: userId=1871856832089866240 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1871856832089866240 status=200
+[ext] [AIFilter] blockUser 試行: userId=1966758958712188928 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1966758958712188928 status=200
+[ext] [AIFilter] blockUser 試行: userId=1962708049937997824 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1962708049937997824 status=200
+[ext] [AIFilter] blockUser 試行: userId=1800942236747825153 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1800942236747825153 status=200
+[ext] [AIFilter] blockUser 試行: userId=1392015978825801728 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1392015978825801728 status=200
+[ext] [AIFilter] blockUser 試行: userId=1971768157590507520 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1971768157590507520 status=200
+[ext] [AIFilter] blockUser 試行: userId=1934603035759808512 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1934603035759808512 status=200
+[ext] [AIFilter] blockUser 試行: userId=1963140498484592640 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1963140498484592640 status=200
+[ext] [AIFilter] blockUser 試行: userId=1509100482874150915 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1509100482874150915 status=200
+[ext] [AIFilter] blockUser 試行: userId=1174516823011688448 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1174516823011688448 status=200
+[ext] [AIFilter] blockUser 試行: userId=1909714566361358336 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1909714566361358336 status=200
+[ext] [AIFilter] blockUser 試行: userId=1397653356579987457 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1397653356579987457 status=200
+[ext] [AIFilter] blockUser 試行: userId=1425018437235974158 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1425018437235974158 status=200
+[ext] [AIFilter] blockUser 試行: userId=1975564979119267844 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1975564979119267844 status=200
+[ext] [AIFilter] blockUser 試行: userId=1955158854569955329 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1955158854569955329 status=200
+[ext] [AIFilter] blockUser 試行: userId=1962703924462559232 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1962703924462559232 status=200
+[ext] [AIFilter] blockUser 試行: userId=1880301164438384643 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1880301164438384643 status=200
+[ext] [AIFilter] blockAll完了: 17件ブロック成功, 0件スキップ (合計17件)
+[ext] [AIFilter] content.js loaded v3-core https://x.com/theutiic/status/2050350520641155467
+[ext] [AIFilter] IIFE開始
+[ext] [AIFilter] 関数定義完了 → SPA observer設定中
+[ext] [AIFilter] startObserver完了
+[ext] [AIFilter] init完了 → setTimeout登録
+[ext] [AIFilter] sessionStorageからbearer復元
+[ext] [AIFilter] loadStorage完了 enabled=true threshold=30
+[ext] [AIFilter] loadStorage完了 → 再スキャン
+[ext] [AIFilter] IndexedDB: 137件ロード, 0件期限切れ削除
+[ext] [AIFilter] userdata受信: @sabotenten2929 posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @theutiic posts=84 joined=2026-01-06T12:23:18.000Z userId=2008514659574517760 articles=0
+[ext] [AIFilter] userdata受信: @theutiic posts=84 joined=2026-01-06T12:23:18.000Z userId=2008514659574517760 articles=0
+[ext] [AIFilter] userdata受信: @contextpinit posts=44640 joined=2016-03-18T11:04:21.000Z userId=710783895172730880 articles=0
+[ext] [AIFilter] userdata受信: @kwetlaw posts=53126 joined=2021-02-27T14:23:16.000Z userId=1365668739094515712 articles=0
+[ext] [AIFilter] userdata受信: @delivpr posts=38515 joined=2015-02-04T07:26:13.000Z userId=3016686094 articles=0
+[ext] [AIFilter] userdata受信: @claritasilvi posts=119627 joined=2015-04-27T00:59:42.000Z userId=3177229148 articles=0
+[ext] [AIFilter] userdata受信: @jeonguqi posts=39928 joined=2020-12-13T15:27:59.000Z userId=1338143558419636225 articles=0
+[ext] [AIFilter] userdata受信: @mxeasly posts=17814 joined=2022-03-13T17:34:27.000Z userId=1503061880998285312 articles=0
+[ext] [AIFilter] userdata受信: @askiashee posts=17476 joined=2025-03-02T11:51:31.000Z userId=1896166037076508672 articles=0
+[ext] [AIFilter] userdata受信: @alesha1191 posts=20848 joined=2021-10-05T11:32:31.000Z userId=1445351101209870341 articles=0
+[ext] [AIFilter] userdata受信: @videokonten0504 posts=53273 joined=2026-01-18T02:13:36.000Z userId=2012709847066869760 articles=0
+[ext] [AIFilter] userdata受信: @xkarinayy posts=40302 joined=2018-04-08T03:10:39.000Z userId=982817972669460485 articles=0
+[ext] [AIFilter] userdata受信: @jinmiranbby posts=24358 joined=2020-12-31T05:41:16.000Z userId=1344518926261133312 articles=0
+[ext] [AIFilter] userdata受信: @moonarchyv posts=85941 joined=2016-12-01T10:52:59.000Z userId=804277105059971073 articles=0
+[ext] [AIFilter] userdata受信: @coffeqoe posts=58356 joined=2017-04-02T09:44:23.000Z userId=848471161612550144 articles=0
+[ext] [AIFilter] userdata受信: @twcint posts=29649 joined=2015-07-31T20:25:36.000Z userId=3397619595 articles=0
+[ext] [AIFilter] userdata受信: @rsevise posts=31608 joined=2017-05-02T11:13:50.000Z userId=859365308041187329 articles=0
+[ext] [AIFilter] userdata受信: @dianalux5 posts=26913 joined=2022-09-19T21:35:03.000Z userId=1571976063693258753 articles=0
+[ext] [AIFilter] userdata受信: @kireluva posts=16574 joined=2024-05-25T00:42:05.000Z userId=1794166782539829248 articles=0
+[ext] [AIFilter] userdata受信: @folecura posts=23325 joined=2023-04-09T13:30:17.000Z userId=1645056485389467651 articles=0
+[ext] [AIFilter] userdata受信: @keysasilfi posts=18818 joined=2026-02-17T02:46:34.000Z userId=2023589822515081218 articles=0
+[ext] [AIFilter] userdata受信: @violanav posts=22487 joined=2026-04-13T23:19:10.000Z userId=2043830990062399489 articles=0
+[ext] [AIFilter] userdata受信: @noviansx posts=23778 joined=2026-03-17T15:43:27.000Z userId=2033932171216621569 articles=0
+[ext] [AIFilter] userdata受信: @hitamkucing00 posts=36518 joined=2026-02-08T18:36:23.000Z userId=2020566370833076224 articles=0
+[ext] [AIFilter] processAllReplies: 1件
+[ext] [AIFilter] fetchProfile pending(auth未取得): @theutiic bearer=true url=false
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] processAllReplies: 2件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] processAllReplies: 7件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @kwetlaw bearer=true url=false
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @delivpr bearer=true url=false
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @claritasilvi bearer=true url=false
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @jeonguqi bearer=true url=false
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @mxeasly bearer=true url=false
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] processAllReplies: 7件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] processAllReplies: 10件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @askiashee bearer=true url=false
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @alesha1191 bearer=true url=false
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @xkarinayy bearer=true url=false
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] processAllReplies: 12件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @jinmiranbby bearer=true url=false
+[ext] [AIFilter] @jinmiranbby posts/day=12.5 (total=24358, age=1955days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @moonarchyv bearer=true url=false
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] processAllReplies: 13件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @jinmiranbby posts/day=12.5 (total=24358, age=1955days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @coffeqoe bearer=true url=false
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] processAllReplies: 13件
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @jinmiranbby posts/day=12.5 (total=24358, age=1955days)
+[ext] [AIFilter] HIT @jinmiranbby total=38 (text=0 beh=0 prof=0) thr=30
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] processAllReplies: 13件
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] processAllReplies: 13件
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @rsevise bearer=true url=false
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @dianalux5 bearer=true url=false
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] processAllReplies: 13件
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @folecura bearer=true url=false
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @violanav bearer=true url=false
+[ext] [AIFilter] @violanav posts/day=883.0 (total=22487, age=25days)
+[ext] [AIFilter] HIT @violanav total=64 (text=0 beh=0 prof=95) thr=30
+[ext] [AIFilter] processAllReplies: 13件
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @noviansx bearer=true url=false
+[ext] [AIFilter] @noviansx posts/day=450.5 (total=23778, age=53days)
+[ext] [AIFilter] HIT @noviansx total=59 (text=0 beh=0 prof=85) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @keysasilfi bearer=true url=false
+[ext] [AIFilter] @keysasilfi posts/day=231.4 (total=18818, age=81days)
+[ext] [AIFilter] HIT @keysasilfi total=59 (text=0 beh=0 prof=85) thr=30
+[ext] [AIFilter] processAllReplies: 13件
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] processAllReplies: 23件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] @violanav posts/day=883.0 (total=22487, age=25days)
+[ext] [AIFilter] HIT @violanav total=64 (text=0 beh=0 prof=95) thr=30
+[ext] [AIFilter] @noviansx posts/day=450.5 (total=23778, age=53days)
+[ext] [AIFilter] HIT @noviansx total=59 (text=0 beh=0 prof=85) thr=30
+[ext] [AIFilter] @keysasilfi posts/day=231.4 (total=18818, age=81days)
+[ext] [AIFilter] HIT @keysasilfi total=59 (text=0 beh=0 prof=85) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @hitamkucing00 bearer=true url=false
+[ext] [AIFilter] @hitamkucing00 posts/day=407.3 (total=36518, age=90days)
+[ext] [AIFilter] HIT @hitamkucing00 total=59 (text=0 beh=0 prof=85) thr=30
+[ext] [AIFilter] userdata受信: @copipianto posts=34187 joined=2026-03-23T09:20:55.000Z userId=2036009993426919424 articles=0
+[ext] [AIFilter] userdata受信: @ailaxavia posts=23809 joined=2025-11-02T12:50:23.000Z userId=1984966278084497408 articles=0
+[ext] [AIFilter] userdata受信: @julayarabica posts=12771 joined=2026-04-03T11:34:48.000Z userId=2040030215716454400 articles=0
+[ext] [AIFilter] userdata受信: @cacavieraa posts=8087 joined=2026-04-01T12:40:07.000Z userId=2039321862245584896 articles=0
+[ext] [AIFilter] userdata受信: @putryyolandadwi posts=20675 joined=2026-04-15T12:43:04.000Z userId=2044395959266742272 articles=0
+[ext] [AIFilter] userdata受信: @sylvezxm posts=31781 joined=2024-02-04T09:11:25.000Z userId=1754069915185901568 articles=0
+[ext] [AIFilter] userdata受信: @hairianyi posts=70639 joined=2025-12-21T16:04:04.000Z userId=2002772040869462016 articles=0
+[ext] [AIFilter] userdata受信: @minati_aprillia posts=164014 joined=2012-05-26T15:13:47.000Z userId=591001072 articles=0
+[ext] [AIFilter] userdata受信: @vyexoria posts=31947 joined=2026-04-06T09:38:09.000Z userId=2041087992039694336 articles=0
+[ext] [AIFilter] userdata受信: @blueee223 posts=11221 joined=2026-01-21T02:47:30.000Z userId=2013805524027092992 articles=0
+[ext] [AIFilter] userdata受信: @belznja posts=20572 joined=2026-03-06T06:42:20.000Z userId=2029809498702106624 articles=0
+[ext] [AIFilter] userdata受信: @sisivers posts=23180 joined=2026-03-19T16:13:24.000Z userId=2034664496623652865 articles=0
+[ext] [AIFilter] userdata受信: @pinkygiii posts=31125 joined=2026-01-14T07:08:43.000Z userId=2011334563654746115 articles=0
+[ext] [AIFilter] userdata受信: @rianadnse posts=25466 joined=2026-02-23T23:05:24.000Z userId=2026070847262490624 articles=0
+[ext] [AIFilter] userdata受信: @peachandlovee_ posts=16046 joined=2026-04-05T16:10:09.000Z userId=2040824242539835392 articles=0
+[ext] [AIFilter] userdata受信: @enzyluv posts=28356 joined=2026-03-10T13:07:30.000Z userId=2031356226949492736 articles=0
+[ext] [AIFilter] userdata受信: @taniajeyan posts=18978 joined=2026-03-15T13:32:47.000Z userId=2033174454881452032 articles=0
+[ext] [AIFilter] processAllReplies: 23件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] processAllReplies: 27件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @copipianto bearer=true url=false
+[ext] [AIFilter] @copipianto posts/day=726.6 (total=34187, age=47days)
+[ext] [AIFilter] HIT @copipianto total=59 (text=0 beh=0 prof=85) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @ailaxavia bearer=true url=false
+[ext] [AIFilter] @ailaxavia posts/day=126.7 (total=23809, age=188days)
+[ext] [AIFilter] HIT @ailaxavia total=44 (text=0 beh=0 prof=55) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @julayarabica bearer=true url=false
+[ext] [AIFilter] @julayarabica posts/day=355.2 (total=12771, age=36days)
+[ext] [AIFilter] HIT @julayarabica total=61 (text=8 beh=0 prof=85) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @cacavieraa bearer=true url=false
+[ext] [AIFilter] @cacavieraa posts/day=213.3 (total=8087, age=38days)
+[ext] [AIFilter] HIT @cacavieraa total=59 (text=0 beh=0 prof=85) thr=30
+[ext] [AIFilter] processAllReplies: 30件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @putryyolandadwi bearer=true url=false
+[ext] [AIFilter] @putryyolandadwi posts/day=864.8 (total=20675, age=24days)
+[ext] [AIFilter] HIT @putryyolandadwi total=64 (text=0 beh=0 prof=95) thr=30
+[ext] [AIFilter] fetchProfile pending(auth未取得): @sylvezxm bearer=true url=false
+[ext] [AIFilter] @sylvezxm posts/day=38.5 (total=31781, age=825days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @hairianyi bearer=true url=false
+[ext] [AIFilter] @hairianyi posts/day=509.0 (total=70639, age=139days)
+[ext] [AIFilter] HIT @hairianyi total=54 (text=0 beh=0 prof=75) thr=30
+[ext] [AIFilter] processAllReplies: 32件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] @sylvezxm posts/day=38.5 (total=31781, age=825days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @minati_aprillia bearer=true url=false
+[ext] [AIFilter] @minati_aprillia posts/day=32.2 (total=164014, age=5096days)
+[ext] [AIFilter] processAllReplies: 33件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] @sylvezxm posts/day=38.5 (total=31781, age=825days)
+[ext] [AIFilter] @minati_aprillia posts/day=32.2 (total=164014, age=5096days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @blueee223 bearer=true url=false
+[ext] [AIFilter] @blueee223 posts/day=103.6 (total=11221, age=108days)
+[ext] [AIFilter] HIT @blueee223 total=46 (text=0 beh=0 prof=60) thr=30
+[ext] [AIFilter] processAllReplies: 34件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @belznja bearer=true url=false
+[ext] [AIFilter] @belznja posts/day=320.6 (total=20572, age=64days)
+[ext] [AIFilter] HIT @belznja total=68 (text=32 beh=0 prof=85) thr=30
+[ext] [AIFilter] @sylvezxm posts/day=38.5 (total=31781, age=825days)
+[ext] [AIFilter] @minati_aprillia posts/day=32.2 (total=164014, age=5096days)
+[ext] [AIFilter] processAllReplies: 35件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] @sylvezxm posts/day=38.5 (total=31781, age=825days)
+[ext] [AIFilter] @minati_aprillia posts/day=32.2 (total=164014, age=5096days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @sisivers bearer=true url=false
+[ext] [AIFilter] @sisivers posts/day=456.6 (total=23180, age=51days)
+[ext] [AIFilter] HIT @sisivers total=59 (text=0 beh=0 prof=85) thr=30
+[ext] [AIFilter] processAllReplies: 36件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] @sylvezxm posts/day=38.5 (total=31781, age=825days)
+[ext] [AIFilter] @minati_aprillia posts/day=32.2 (total=164014, age=5096days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @pinkygiii bearer=true url=false
+[ext] [AIFilter] @pinkygiii posts/day=270.3 (total=31125, age=115days)
+[ext] [AIFilter] HIT @pinkygiii total=56 (text=8 beh=0 prof=75) thr=30
+[ext] [AIFilter] processAllReplies: 37件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] @sylvezxm posts/day=38.5 (total=31781, age=825days)
+[ext] [AIFilter] @minati_aprillia posts/day=32.2 (total=164014, age=5096days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @rianadnse bearer=true url=false
+[ext] [AIFilter] @rianadnse posts/day=341.9 (total=25466, age=74days)
+[ext] [AIFilter] HIT @rianadnse total=59 (text=0 beh=0 prof=85) thr=30
+[ext] [AIFilter] processAllReplies: 37件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] @sylvezxm posts/day=38.5 (total=31781, age=825days)
+[ext] [AIFilter] @minati_aprillia posts/day=32.2 (total=164014, age=5096days)
+[ext] [AIFilter] blockUser 試行: userId=1344518926261133312 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1344518926261133312 status=200
+[ext] [AIFilter] blockUser 試行: userId=2043830990062399489 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2043830990062399489 status=200
+[ext] [AIFilter] blockUser 試行: userId=2033932171216621569 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2033932171216621569 status=200
+[ext] [AIFilter] blockUser 試行: userId=2023589822515081218 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2023589822515081218 status=200
+[ext] [AIFilter] blockUser 試行: userId=2020566370833076224 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2020566370833076224 status=200
+[ext] [AIFilter] blockUser 試行: userId=2036009993426919424 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2036009993426919424 status=200
+[ext] [AIFilter] blockUser 試行: userId=1984966278084497408 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1984966278084497408 status=200
+[ext] [AIFilter] blockUser 試行: userId=2040030215716454400 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2040030215716454400 status=200
+[ext] [AIFilter] blockUser 試行: userId=2039321862245584896 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2039321862245584896 status=200
+[ext] [AIFilter] blockUser 試行: userId=2044395959266742272 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2044395959266742272 status=200
+[ext] [AIFilter] blockUser 試行: userId=2002772040869462016 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2002772040869462016 status=200
+[ext] [AIFilter] blockUser 試行: userId=2013805524027092992 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2013805524027092992 status=200
+[ext] [AIFilter] blockUser 試行: userId=2029809498702106624 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2029809498702106624 status=200
+[ext] [AIFilter] blockUser 試行: userId=2034664496623652865 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2034664496623652865 status=200
+[ext] [AIFilter] blockUser 試行: userId=2011334563654746115 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2011334563654746115 status=200
+[ext] [AIFilter] blockUser 試行: userId=2026070847262490624 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=2026070847262490624 status=200
+[ext] [AIFilter] blockAll完了: 16件ブロック成功, 0件スキップ (合計16件)
+[ext] [AIFilter] content.js loaded v3-core https://x.com/theutiic/status/2050350520641155467
+[ext] [AIFilter] IIFE開始
+[ext] [AIFilter] 関数定義完了 → SPA observer設定中
+[ext] [AIFilter] startObserver完了
+[ext] [AIFilter] init完了 → setTimeout登録
+[ext] [AIFilter] sessionStorageからbearer復元
+[ext] [AIFilter] loadStorage完了 enabled=true threshold=30
+[ext] [AIFilter] loadStorage完了 → 再スキャン
+[ext] [AIFilter] IndexedDB: 152件ロード, 0件期限切れ削除
+[ext] [AIFilter] userdata受信: @sabotenten2929 posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @theutiic posts=84 joined=2026-01-06T12:23:18.000Z userId=2008514659574517760 articles=0
+[ext] [AIFilter] userdata受信: @theutiic posts=84 joined=2026-01-06T12:23:18.000Z userId=2008514659574517760 articles=0
+[ext] [AIFilter] userdata受信: @contextpinit posts=44640 joined=2016-03-18T11:04:21.000Z userId=710783895172730880 articles=0
+[ext] [AIFilter] userdata受信: @kwetlaw posts=53126 joined=2021-02-27T14:23:16.000Z userId=1365668739094515712 articles=0
+[ext] [AIFilter] userdata受信: @delivpr posts=38515 joined=2015-02-04T07:26:13.000Z userId=3016686094 articles=0
+[ext] [AIFilter] userdata受信: @claritasilvi posts=119627 joined=2015-04-27T00:59:42.000Z userId=3177229148 articles=0
+[ext] [AIFilter] userdata受信: @jeonguqi posts=39928 joined=2020-12-13T15:27:59.000Z userId=1338143558419636225 articles=0
+[ext] [AIFilter] userdata受信: @mxeasly posts=17814 joined=2022-03-13T17:34:27.000Z userId=1503061880998285312 articles=0
+[ext] [AIFilter] userdata受信: @askiashee posts=17476 joined=2025-03-02T11:51:31.000Z userId=1896166037076508672 articles=0
+[ext] [AIFilter] userdata受信: @alesha1191 posts=20848 joined=2021-10-05T11:32:31.000Z userId=1445351101209870341 articles=0
+[ext] [AIFilter] userdata受信: @xkarinayy posts=40302 joined=2018-04-08T03:10:39.000Z userId=982817972669460485 articles=0
+[ext] [AIFilter] userdata受信: @moonarchyv posts=85941 joined=2016-12-01T10:52:59.000Z userId=804277105059971073 articles=0
+[ext] [AIFilter] userdata受信: @coffeqoe posts=58356 joined=2017-04-02T09:44:23.000Z userId=848471161612550144 articles=0
+[ext] [AIFilter] userdata受信: @twcint posts=29649 joined=2015-07-31T20:25:36.000Z userId=3397619595 articles=0
+[ext] [AIFilter] userdata受信: @videokonten0504 posts=53273 joined=2026-01-18T02:13:36.000Z userId=2012709847066869760 articles=0
+[ext] [AIFilter] userdata受信: @rsevise posts=31608 joined=2017-05-02T11:13:50.000Z userId=859365308041187329 articles=0
+[ext] [AIFilter] userdata受信: @dianalux5 posts=26913 joined=2022-09-19T21:35:03.000Z userId=1571976063693258753 articles=0
+[ext] [AIFilter] userdata受信: @kireluva posts=16575 joined=2024-05-25T00:42:05.000Z userId=1794166782539829248 articles=0
+[ext] [AIFilter] userdata受信: @folecura posts=23325 joined=2023-04-09T13:30:17.000Z userId=1645056485389467651 articles=0
+[ext] [AIFilter] processAllReplies: 1件
+[ext] [AIFilter] fetchProfile pending(auth未取得): @theutiic bearer=true url=false
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] processAllReplies: 2件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] processAllReplies: 7件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @claritasilvi bearer=true url=false
+[ext] [AIFilter] fetchProfile pending(auth未取得): @kwetlaw bearer=true url=false
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @delivpr bearer=true url=false
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @jeonguqi bearer=true url=false
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @mxeasly bearer=true url=false
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] processAllReplies: 10件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @askiashee bearer=true url=false
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @alesha1191 bearer=true url=false
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @xkarinayy bearer=true url=false
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] processAllReplies: 10件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] processAllReplies: 11件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @moonarchyv bearer=true url=false
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] processAllReplies: 12件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @coffeqoe bearer=true url=false
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] processAllReplies: 17件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @rsevise bearer=true url=false
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @dianalux5 bearer=true url=false
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] processAllReplies: 18件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @folecura bearer=true url=false
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] userdata受信: @sylvezxm posts=31781 joined=2024-02-04T09:11:25.000Z userId=1754069915185901568 articles=0
+[ext] [AIFilter] userdata受信: @minati_aprillia posts=164014 joined=2012-05-26T15:13:47.000Z userId=591001072 articles=0
+[ext] [AIFilter] userdata受信: @vyexoria posts=31947 joined=2026-04-06T09:38:09.000Z userId=2041087992039694336 articles=0
+[ext] [AIFilter] processAllReplies: 18件
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @sylvezxm bearer=true url=false
+[ext] [AIFilter] @sylvezxm posts/day=38.5 (total=31781, age=825days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @minati_aprillia bearer=true url=false
+[ext] [AIFilter] @minati_aprillia posts/day=32.2 (total=164014, age=5096days)
+[ext] [AIFilter] processAllReplies: 21件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] @sylvezxm posts/day=38.5 (total=31781, age=825days)
+[ext] [AIFilter] @minati_aprillia posts/day=32.2 (total=164014, age=5096days)
+[ext] [AIFilter] processAllReplies: 18件
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] @sylvezxm posts/day=38.5 (total=31781, age=825days)
+[ext] [AIFilter] @minati_aprillia posts/day=32.2 (total=164014, age=5096days)
+[ext] [AIFilter] processAllReplies: 18件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] processAllReplies: 17件
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] @sylvezxm posts/day=38.5 (total=31781, age=825days)
+[ext] [AIFilter] processAllReplies: 17件
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] @sylvezxm posts/day=38.5 (total=31781, age=825days)
+[ext] [AIFilter] @minati_aprillia posts/day=32.2 (total=164014, age=5096days)
+[ext] [AIFilter] processAllReplies: 16件
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] @sylvezxm posts/day=38.5 (total=31781, age=825days)
+[ext] [AIFilter] @minati_aprillia posts/day=32.2 (total=164014, age=5096days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] processAllReplies: 20件
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @dianalux5 posts/day=20.3 (total=26913, age=1328days)
+[ext] [AIFilter] HIT @dianalux5 total=51 (text=8 beh=0 prof=15) thr=30
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] @sylvezxm posts/day=38.5 (total=31781, age=825days)
+[ext] [AIFilter] HIT @sylvezxm total=51 (text=8 beh=0 prof=15) thr=30
+[ext] [AIFilter] @minati_aprillia posts/day=32.2 (total=164014, age=5096days)
+[ext] [AIFilter] processAllReplies: 19件
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] @minati_aprillia posts/day=32.2 (total=164014, age=5096days)
+[ext] [AIFilter] processAllReplies: 21件
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] @minati_aprillia posts/day=32.2 (total=164014, age=5096days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] blockUser 試行: userId=1571976063693258753 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1571976063693258753 status=200
+[ext] [AIFilter] blockUser 試行: userId=1754069915185901568 endpoint=https://x.com/i/api/1.1/blocks/create.json
+[ext] [AIFilter] blockUser成功 userId=1754069915185901568 status=200
+[ext] [AIFilter] blockAll完了: 2件ブロック成功, 0件スキップ (合計2件)
+[ext] [AIFilter] content.js loaded v3-core https://x.com/theutiic/status/2050350520641155467
+[ext] [AIFilter] IIFE開始
+[ext] [AIFilter] 関数定義完了 → SPA observer設定中
+[ext] [AIFilter] startObserver完了
+[ext] [AIFilter] init完了 → setTimeout登録
+[ext] [AIFilter] sessionStorageからbearer復元
+[ext] [AIFilter] loadStorage完了 enabled=true threshold=30
+[ext] [AIFilter] loadStorage完了 → 再スキャン
+[ext] [AIFilter] IndexedDB: 152件ロード, 0件期限切れ削除
+[ext] [AIFilter] userdata受信: @sabotenten2929 posts=null joined=null userId=null articles=0
+[ext] [AIFilter] userdata受信: @theutiic posts=84 joined=2026-01-06T12:23:18.000Z userId=2008514659574517760 articles=0
+[ext] [AIFilter] userdata受信: @theutiic posts=84 joined=2026-01-06T12:23:18.000Z userId=2008514659574517760 articles=0
+[ext] [AIFilter] userdata受信: @contextpinit posts=44640 joined=2016-03-18T11:04:21.000Z userId=710783895172730880 articles=0
+[ext] [AIFilter] userdata受信: @kwetlaw posts=53126 joined=2021-02-27T14:23:16.000Z userId=1365668739094515712 articles=0
+[ext] [AIFilter] userdata受信: @delivpr posts=38515 joined=2015-02-04T07:26:13.000Z userId=3016686094 articles=0
+[ext] [AIFilter] userdata受信: @claritasilvi posts=119627 joined=2015-04-27T00:59:42.000Z userId=3177229148 articles=0
+[ext] [AIFilter] userdata受信: @jeonguqi posts=39928 joined=2020-12-13T15:27:59.000Z userId=1338143558419636225 articles=0
+[ext] [AIFilter] userdata受信: @mxeasly posts=17814 joined=2022-03-13T17:34:27.000Z userId=1503061880998285312 articles=0
+[ext] [AIFilter] userdata受信: @askiashee posts=17476 joined=2025-03-02T11:51:31.000Z userId=1896166037076508672 articles=0
+[ext] [AIFilter] userdata受信: @alesha1191 posts=20848 joined=2021-10-05T11:32:31.000Z userId=1445351101209870341 articles=0
+[ext] [AIFilter] userdata受信: @xkarinayy posts=40302 joined=2018-04-08T03:10:39.000Z userId=982817972669460485 articles=0
+[ext] [AIFilter] userdata受信: @moonarchyv posts=85941 joined=2016-12-01T10:52:59.000Z userId=804277105059971073 articles=0
+[ext] [AIFilter] userdata受信: @coffeqoe posts=58356 joined=2017-04-02T09:44:23.000Z userId=848471161612550144 articles=0
+[ext] [AIFilter] userdata受信: @twcint posts=29649 joined=2015-07-31T20:25:36.000Z userId=3397619595 articles=0
+[ext] [AIFilter] userdata受信: @videokonten0504 posts=53273 joined=2026-01-18T02:13:36.000Z userId=2012709847066869760 articles=0
+[ext] [AIFilter] userdata受信: @rsevise posts=31608 joined=2017-05-02T11:13:50.000Z userId=859365308041187329 articles=0
+[ext] [AIFilter] userdata受信: @folecura posts=23325 joined=2023-04-09T13:30:17.000Z userId=1645056485389467651 articles=0
+[ext] [AIFilter] userdata受信: @kireluva posts=16577 joined=2024-05-25T00:42:05.000Z userId=1794166782539829248 articles=0
+[ext] [AIFilter] processAllReplies: 1件
+[ext] [AIFilter] fetchProfile pending(auth未取得): @theutiic bearer=true url=false
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] processAllReplies: 2件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] processAllReplies: 7件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @kwetlaw bearer=true url=false
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @delivpr bearer=true url=false
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @claritasilvi bearer=true url=false
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @jeonguqi bearer=true url=false
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @mxeasly bearer=true url=false
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] processAllReplies: 10件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @askiashee bearer=true url=false
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @alesha1191 bearer=true url=false
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @xkarinayy bearer=true url=false
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] processAllReplies: 11件
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @moonarchyv bearer=true url=false
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @coffeqoe bearer=true url=false
+[ext] [AIFilter] processAllReplies: 12件
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] processAllReplies: 17件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @rsevise bearer=true url=false
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] fetchProfile pending(auth未取得): @folecura bearer=true url=false
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] processAllReplies: 17件
+[ext] [AIFilter] @theutiic posts/day=0.7 (total=84, age=123days)
+[ext] [AIFilter] @kwetlaw posts/day=28.0 (total=53126, age=1897days)
+[ext] [AIFilter] @delivpr posts/day=9.4 (total=38515, age=4112days)
+[ext] [AIFilter] @claritasilvi posts/day=29.7 (total=119627, age=4030days)
+[ext] [AIFilter] @jeonguqi posts/day=20.2 (total=39928, age=1973days)
+[ext] [AIFilter] @mxeasly posts/day=11.7 (total=17814, age=1518days)
+[ext] [AIFilter] @askiashee posts/day=40.4 (total=17476, age=433days)
+[ext] [AIFilter] @alesha1191 posts/day=12.4 (total=20848, age=1677days)
+[ext] [AIFilter] @xkarinayy posts/day=13.6 (total=40302, age=2953days)
+[ext] [AIFilter] @moonarchyv posts/day=24.9 (total=85941, age=3446days)
+[ext] [AIFilter] @coffeqoe posts/day=17.6 (total=58356, age=3324days)
+[ext] [AIFilter] @rsevise posts/day=9.6 (total=31608, age=3294days)
+[ext] [AIFilter] @folecura posts/day=20.7 (total=23325, age=1126days)
+[ext] [AIFilter] userdata受信: @lipod_taisho posts=328376 joined=2015-04-10T09:33:51.000Z userId=3147766916 articles=0
+[ext] [AIFilter] userdata受信: @lipod_taisho posts=328376 joined=2015-04-10T09:33:51.000Z userId=3147766916 articles=0
+[ext] [AIFilter] userdata受信: @lipod_taisho posts=328376 joined=2015-04-10T09:33:51.000Z userId=3147766916 articles=0
+[ext] [AIFilter] userdata受信: @lipod_taisho posts=328376 joined=2015-04-10T09:33:51.000Z userId=3147766916 articles=0
+[ext] [AIFilter] userdata受信: @lipod_taisho posts=328376 joined=2015-04-10T09:33:51.000Z userId=3147766916 articles=0
+[ext] [AIFilter] userdata受信: @lipod_taisho posts=328376 joined=2015-04-10T09:33:51.000Z userId=3147766916 articles=0
+[ext] [AIFilter] userdata受信: @lipod_taisho posts=328376 joined=2015-04-10T09:33:51.000Z userId=3147766916 articles=0

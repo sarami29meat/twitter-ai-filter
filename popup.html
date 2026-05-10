@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>Twitter AI Filter</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="popup-container">
+    <div class="popup-header">
+      <span class="popup-title">Twitter AI Filter</span>
+      <label class="toggle-switch" title="拡張機能の有効/無効">
+        <input type="checkbox" id="enabledToggle">
+        <span class="toggle-slider"></span>
+      </label>
+    </div>
+
+    <div class="popup-body" id="settingsBody">
+      <div class="stat-row">
+        <span class="stat-label">このセッションで非表示にしたコメント</span>
+        <span class="stat-value" id="hiddenCount">0</span>
+      </div>
+
+      <hr class="divider">
+
+      <div class="setting-row">
+        <label class="setting-label">
+          判定の厳しさ
+          <span class="setting-hint">（低い = 厳しく判定）</span>
+        </label>
+        <div class="slider-row">
+          <span class="slider-edge">厳格</span>
+          <input type="range" id="thresholdSlider" min="30" max="90" step="5">
+          <span class="slider-edge">緩め</span>
+        </div>
+        <div class="slider-value">閾値: <strong id="thresholdValue">65</strong> / 100</div>
+      </div>
+
+      <div class="setting-row">
+        <label class="setting-label">
+          制限解除に必要なフラグ数
+          <span class="setting-hint">（「AIではない」ボタンの必要回数）</span>
+        </label>
+        <div class="slider-row">
+          <span class="slider-edge">1</span>
+          <input type="range" id="flagThresholdSlider" min="1" max="20" step="1">
+          <span class="slider-edge">20</span>
+        </div>
+        <div class="slider-value"><strong id="flagThresholdValue">5</strong> 回でコメントを表示</div>
+      </div>
+
+      <hr class="divider">
+
+      <button class="reset-btn" id="resetFlagsBtn">フラグ履歴をリセット</button>
+      <div class="reset-msg" id="resetMsg"></div>
+    </div>
+
+    <div class="popup-footer">
+      v1.0.0 — AI生成コメント自動フィルタ
+    </div>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
