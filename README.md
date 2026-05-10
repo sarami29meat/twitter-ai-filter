@@ -29,7 +29,7 @@ Twitter/X のリプライ欄に増えてきたAI生成コメントを自動検�
 
 1. このリポジトリをクローン or ZIPダウンロード
    ```
-   git clone https://github.com/YOUR_USERNAME/twitter-ai-filter.git
+   git clone https://github.com/sarami29meat/twitter-ai-filter.git
    ```
 2. Chromeで `chrome://extensions` を開く
 3. 右上の「デベロッパーモード」をONにする
@@ -70,8 +70,8 @@ Twitter/X のリプライ欄に増えてきたAI生成コメントを自動検�
 ```
 twitter-ai-filter/
 ├── manifest.json     # Chrome拡張設定（MV3）
-├── interceptor.js    # ネットワーク傍受（MAIN world）
-├── content.js        # DOM監視・UI（ISOLATED world）
+├── interceptor.js    # データ取得
+├── content.js        # DOM処理・UI
 ├── detector.js       # AIスコアリングエンジン
 ├── injected.css      # スタイル
 ├── background.js     # Service Worker
@@ -89,6 +89,6 @@ MIT
 
 ## サポート
 
-バグ報告・要望は [Issues](https://github.com/YOUR_USERNAME/twitter-ai-filter/issues) へ。
+バグ報告・要望は [Issues](https://github.com/sarami29meat/twitter-ai-filter/issues) へ。
 
-役に立ったら ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/YOUR_USERNAME) で支援してもらえると励みになります。
+役に立ったら ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/sarami29meat) で支援してもらえると励みになります。
